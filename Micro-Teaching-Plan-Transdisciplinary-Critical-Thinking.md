@@ -16,18 +16,30 @@
 从"跨学科与批判性思维"这一宏观主题中，我们聚焦于两大核心能力及其四个维度：
 
 #### **1. 跨学科思维 (Transdisciplinary Thinking)**
-> "避免单一学科视角造成的认知偏见……其本质在于连接所学知识，构建一个复杂的框架……以便更好地定义、分析和解决复杂问题。"
+> **English Definition**: "Transdisciplinary thinking is an essential way of thinking required of RBM students to avoid cognitive bias and conventional thinking caused by the single-disciplinary perspective, thus cultivating the T-type talent. It helps students gain a cognitive edge and solve difficult problems for innovation. The essence of transdisciplinary thinking lies in connecting the knowledge learnt to develop a complex framework constructed by functions, elements, relations and environment for a better definition, analysis and resolution of complicated issues."
 
-**两大维度**：
-- **Systemic Problem Definition (系统性问题定义)**：为复杂问题进行更好的定义和分析
-- **Cross-Boundary Integration & Application (跨界整合与应用)**：连接所学知识（跨界整合）并解决问题（应用），呼应"T型人才"的横向知识
+> **中文定义**："避免单一学科视角造成的认知偏见……其本质在于连接所学知识，构建一个复杂的框架……以便更好地定义、分析和解决复杂问题。"
+
+**两大维度**（每个维度由一位同学负责）：
+- **维度1: Systemic Problem Definition (系统性问题定义)** - 同学A负责  
+  为复杂问题进行更好的定义和分析，构建由功能、要素、关系和环境组成的复杂框架
+  
+- **维度2: Cross-Boundary Integration & Application (跨界整合与应用)** - 同学B负责  
+  连接所学知识（跨界整合）并解决问题（应用），呼应"T型人才"的横向知识（Broad Spectrum of Knowledge）
+  
+  **T型人才**: 拥有广泛跨学科知识（横向）和特定领域深厚专业技能（纵向）的人才
 
 #### **2. 批判性思维 (Critical Thinking)**
-> "通过批判性思维，以清晰合理的方式做出判断和选择……审查所接收到的信息和数据，以确定其价值、真实性和功效。"
+> **English Definition**: "Critical thinking is an integral psychological feature of innovative talent, requiring students to make judgments and choices in a clear and reasonable way through critical thinking. RBM students are required to obtain and construct knowledge in the AI era, whether through reading, experiments, or interdisciplinary group discussion. The information and data thus received should be examined after thorough and clear thinking to determine their value, authenticity and efficacy."
 
-**两大维度**：
-- **Evidence Gathering & Analysis (证据收集与分析)**：审查信息和数据，确定其价值和真实性
-- **Logical Reasoning & Synthesis (逻辑推理与综合)**：以清晰合理的方式做出判断和选择
+> **中文定义**："通过批判性思维，以清晰合理的方式做出判断和选择……审查所接收到的信息和数据，以确定其价值、真实性和功效。"
+
+**两大维度**（每个维度由一位同学负责）：
+- **维度3: Evidence Gathering & Analysis (证据收集与分析)** - 同学C负责  
+  审查所接收的信息和数据，通过彻底清晰的思考确定其价值、真实性和功效
+  
+- **维度4: Logical Reasoning & Synthesis (逻辑推理与综合)** - 同学D负责  
+  以清晰合理的方式做出判断和选择，综合多方信息构建知识
 
 ### 为什么推荐这个课题？
 
@@ -71,170 +83,184 @@
 
 ## 第二部分：详细人员分工 (Division of Labor)
 
-### 分工原则
-- **全员参与**: 每位成员都有台上讲解部分（符合Guide要求）
-- **理论+互动结合**: 理论讲解与分组讨论交替进行
-- **覆盖全流程**: 从前期准备到现场演示到互动环节
+### 新的分工原则：一人一维度 (One Person, One Dimension)
+- **全员参与**: 每位成员负责一个具体维度的讲解（符合Guide要求）
+- **四个维度分配**:
+  - **同学A**: 跨学科思维 - 系统性问题定义 (Systemic Problem Definition)
+  - **同学B**: 跨学科思维 - 跨界整合与应用 (Cross-Boundary Integration & Application)
+  - **同学C**: 批判性思维 - 证据收集与分析 (Evidence Gathering & Analysis)
+  - **同学D**: 批判性思维 - 逻辑推理与综合 (Logical Reasoning & Synthesis)
+- **覆盖全流程**: 从理论讲解到互动引导到总结
 
 ---
 
-### 同学A：主持人 & 跨学科思维理论讲师 (Host & Transdisciplinary Thinking Instructor)
-**总体协调者 + 开场 + 跨学科思维理论**
+### 同学A：跨学科思维 - 系统性问题定义维度 (Transdisciplinary Thinking - Systemic Problem Definition)
+**主持人 + 第一个维度讲师**
 
 #### 前期准备（课前1-2周）
-- [ ] 协调小组会议，分配任务时间表
-- [ ] 深入研究跨学科思维理论和四个维度
-- [ ] 设计第一次投票活动（分thrust选择）
-- [ ] 准备PPT第1-4页（标题页、学习目标、跨学科思维理论、投票）
-- [ ] 准备真实案例（用于两次分组讨论）
+- [ ] 深入研究"系统性问题定义"维度
+- [ ] 理解如何构建由功能、要素、关系和环境组成的复杂框架
+- [ ] 准备案例："智能校园系统"如何进行系统性定义
+- [ ] 设计第一次Mentimeter投票（分thrust）
+- [ ] 准备PPT第1-4页（标题页、学习目标、跨学科思维介绍、系统性问题定义维度）
 
 #### 现场演示（20分钟课堂）
-- **0-2分钟**: 
-  - 开场致辞，介绍小组成员和课程主题
-  - 说明本节课的学习目标（Learning Objectives）
-- **2-7分钟** (跨学科思维理论讲解):
-  - 讲解跨学科思维定义和重要性
-  - 详细阐述**两大维度**：
-    1. **Systemic Problem Definition (系统性问题定义)**
-    2. **Cross-Boundary Integration & Application (跨界整合与应用)**
-  - 举例说明：T型人才的横向知识整合
-  - 引入第一次投票：**"你来自哪个thrust？你会如何用你的专业视角看待[案例问题]？"**
-  - 操作Mentimeter显示投票结果（由同学D配合）
-- **18-20分钟**: 
-  - 课程总结（呼应学习目标）
-  - 强调跨学科思维和批判性思维的结合
+- **0-2分钟** (开场): 
+  - 开场致辞，介绍课程主题和学习目标
+  - 简要介绍跨学科思维的重要性
+  
+- **2-5分钟** (系统性问题定义维度讲解):
+  - 详细讲解**维度1: Systemic Problem Definition**
+  - 说明如何从多个方面定义复杂问题：
+    - **功能 (Functions)**: 系统需要实现什么功能？
+    - **要素 (Elements)**: 涉及哪些关键要素？
+    - **关系 (Relations)**: 要素之间的关系如何？
+    - **环境 (Environment)**: 外部环境因素是什么？
+  - 举例：智能校园系统的系统性定义
+    - 功能：数据收集、分析、决策支持
+    - 要素：传感器、数据库、AI算法、用户界面
+    - 关系：数据流、控制流、反馈循环
+    - 环境：隐私法规、用户习惯、技术基础设施
+  
+- **5-7分钟** (第一次投票互动):
+  - 引导Mentimeter投票："你来自哪个thrust？从你的专业视角看智能校园系统，你会关注哪些要素？"
+  - 与同学B协作，过渡到下一个维度
+  
+- **18-20分钟** (总结):
+  - 总结四个维度如何协同工作
+  - 呼应学习目标
 
-#### 互动与Q&A（5分钟）
-- 主持Q&A环节，分配问题给其他成员回答
-- 收集观众的peer feedback
+#### Q&A环节（20-25分钟）
+- 主持Q&A，分配问题给其他成员
 
 ---
 
-### 同学B：批判性思维理论讲师 & 第二次讨论主持 (Critical Thinking Instructor & Discussion Facilitator)
-**批判性思维理论 + 第二次讨论引导**
+### 同学B：跨学科思维 - 跨界整合与应用维度 (Transdisciplinary Thinking - Cross-Boundary Integration & Application)
+**第二个维度讲师 + 第一次讨论协助**
 
 #### 前期准备（课前1-2周）
-- [ ] 深入研究批判性思维理论和四个维度
-- [ ] 设计第二次投票活动（评价选项）
-- [ ] 准备PPT第6-8页（批判性思维理论、投票、第二次讨论指引）
-- [ ] 设计方案评价的四个选项（用于投票）
-- [ ] 准备facilitation问题清单
+- [ ] 深入研究"跨界整合与应用"维度
+- [ ] 理解T型人才模型（横向知识整合）
+- [ ] 准备如何整合不同学科知识的实例
+- [ ] 准备PPT第5-6页（跨界整合与应用维度、第一次讨论指引）
+- [ ] 与同学A协调投票后的过渡
 
 #### 现场演示（20分钟课堂）
-- **11-16分钟** (批判性思维理论讲解):
-  - 讲解批判性思维定义
-  - 详细阐述**两大维度**：
-    1. **Evidence Gathering & Analysis (证据收集与分析)**
-    2. **Logical Reasoning & Synthesis (逻辑推理与综合)**
-  - 说明如何用批判性思维评估跨学科方案
-  - 引入第二次投票：**"对于刚才小组提出的方案，你认为哪个评价最合理？"**
-    - 选项A：方案整合了多个学科但缺乏证据支持
-    - 选项B：方案有充分证据但只考虑单一视角
-    - 选项C：方案兼具跨学科整合和证据支持
-    - 选项D：方案创新但不可行
-  - 操作Mentimeter显示投票结果（由同学D配合）
-  - 引导第二次分组讨论（2-3分钟）
-  - 点名请一位同学重述自己小组的方案
-  - 引导组内成员进行批判性评价
-  - 点名请合作组的一位同学提供评价
-
-#### 支持其他环节
-- 协助同学C在第一次讨论时提供理论支持
-- 回答观众关于批判性思维的问题
+- **7-9分钟** (跨界整合与应用维度讲解):
+  - 详细讲解**维度2: Cross-Boundary Integration & Application**
+  - 说明如何整合不同学科知识：
+    - **识别相关学科** (Identify Relevant Disciplines): 问题涉及哪些学科？
+    - **寻找连接点** (Find Connections): 不同学科之间的共同点和互补点
+    - **整合框架** (Integration Framework): 构建跨学科解决方案
+    - **实际应用** (Application): 将整合的知识应用于问题解决
+  - 强调T型人才的横向知识重要性
+  - 举例：智能校园需要整合计算机科学、数据科学、用户体验设计、法律、社会学等
+  
+- **9-13分钟** (第一次分组讨论协助):
+  - 协助同学C或其他成员主持第一次分组讨论
+  - 观察各组讨论，提供跨学科整合的引导
+  - 在小组分享时补充跨学科整合的视角
 
 ---
 
-### 同学C：第一次分组讨论主持人 (First Discussion Facilitator)
-**第一次互动环节的核心主持人**
+### 同学C：批判性思维 - 证据收集与分析维度 (Critical Thinking - Evidence Gathering & Analysis)
+**第三个维度讲师 + 第一次讨论主持**
 
 #### 前期准备（课前1-2周）
-- [ ] 与同学A协作设计案例问题
-- [ ] 准备facilitation技巧和引导问题
-- [ ] 准备PPT第5页（第一次分组讨论指引）
-- [ ] 设计分组策略（如何快速分组）
-- [ ] 准备点名策略和问题清单
+- [ ] 深入研究"证据收集与分析"维度
+- [ ] 理解如何评估信息的价值、真实性和功效
+- [ ] 准备第一次分组讨论的facilitation技巧
+- [ ] 准备PPT第7-8页（批判性思维介绍、证据收集与分析维度）
+- [ ] 设计点名策略
 
 #### 现场演示（20分钟课堂）
-- **7-11分钟** (第一次分组讨论):
-  - **活动引入** (30秒):
-    - 清晰说明讨论任务："请用跨学科思维设计一个解决[案例问题]的方案"
-    - 说明讨论时间：3分钟
-    - 提醒学生运用刚才学到的两大维度
-  - **分组讨论** (3分钟):
-    - 宣布分组（例如：邻座2-4人为一组）
-    - 巡视各组，适时提供引导
-    - 观察讨论热度，记录活跃小组
-  - **点名回答** (30秒 × 2):
-    - 点名第一位同学："[姓名]同学，请分享你们小组的跨学科方案"
-    - 点名第二位同学（不同小组）："[姓名]同学，你们小组有什么不同的想法？"
-  - **简短feedback** (30秒):
-    - 表扬具体的跨学科整合点
-    - 过渡到批判性思维环节："方案很好，但我们如何评估这些方案的可行性呢？"
-
-#### 支持其他环节
-- 协助同学B在第二次讨论时管理时间
-- 观察观众参与度，适时调整节奏
+- **9-13分钟** (第一次分组讨论主持):
+  - **活动引入** (30秒): 清晰说明任务
+    - "请运用跨学科思维（系统性定义+跨界整合）设计智能校园系统方案"
+  - **分组讨论** (3分钟): 巡视各组，适时引导
+  - **点名分享** (30秒×2): 点名2位同学分享方案
+  
+- **13-15分钟** (证据收集与分析维度讲解):
+  - 详细讲解**维度3: Evidence Gathering & Analysis**
+  - 说明如何审查信息和数据：
+    - **收集证据** (Gather Evidence): 从多个来源获取信息
+    - **评估价值** (Evaluate Value): 信息是否相关和有用？
+    - **验证真实性** (Verify Authenticity): 信息是否可靠和准确？
+    - **确定功效** (Determine Efficacy): 信息是否能有效支持决策？
+  - 举例：评估智能校园方案需要的证据
+    - 技术可行性数据、成本效益分析、用户需求调研、隐私合规报告等
+    - 如何判断这些证据的质量和可信度
 
 ---
 
-### 同学D：数字工具专家 & 视觉设计师 (Digital Tool Manager & Visual Designer)
-**技术支持 + PPT制作 + 总结**
+### 同学D：批判性思维 - 逻辑推理与综合维度 (Critical Thinking - Logical Reasoning & Synthesis)
+**第四个维度讲师 + 第二次讨论主持 + 数字工具操作**
 
 #### 前期准备（课前1-2周）
-- [ ] 设计并制作完整PPT（9-10页）
-  - 确保视觉一致性（颜色、字体、布局）
-  - 添加图标、图表、动画效果
-- [ ] 设置Mentimeter两次投票：
-  - 第一次：分thrust投票（开放式文字+选择题）
-  - 第二次：评价选项投票（4个选项）
-- [ ] 准备自我评估Rubric（包含跨学科和批判性思维维度）
-- [ ] 测试所有数字工具，确保网络连接和账号权限
-- [ ] 准备PPT第9-10页（总结、自我评估、参考资料）
+- [ ] 深入研究"逻辑推理与综合"维度
+- [ ] 理解如何做出清晰合理的判断
+- [ ] 设计第二次Mentimeter投票（4个评价选项）
+- [ ] 准备完整PPT（10页）
+- [ ] 设置两个Mentimeter投票
+- [ ] 准备自我评估Google Form（4个维度）
+- [ ] 准备PPT第9-10页（逻辑推理与综合维度、第二次讨论、总结）
 
 #### 现场演示（20分钟课堂）
 - **全程技术支持**:
-  - 2-7分钟：操作第一次Mentimeter投票，实时显示结果
-  - 11-16分钟：操作第二次Mentimeter投票，实时显示结果
-  - 随时切换PPT页面，配合其他成员演示
-- **18-20分钟** (总结与自我评估):
-  - 快速回顾两大核心能力和四个维度
-  - 展示自我评估Rubric（包含4个维度评估）
-  - 引导学生课后完成自我评估
-  - 展示参考资料和延伸学习资源
-
-#### 技术troubleshooting
-- 随时准备Plan B（例如：Mentimeter无法连接时，改用举手投票）
-- 记录课堂互动数据（用于Group Report）
+  - 5-7分钟：操作第一次Mentimeter投票
+  - 15-17分钟：操作第二次Mentimeter投票
+  
+- **15-17分钟** (逻辑推理与综合维度讲解 + 第二次投票):
+  - 详细讲解**维度4: Logical Reasoning & Synthesis**
+  - 说明如何做出合理判断：
+    - **识别假设** (Identify Assumptions): 方案基于什么假设？
+    - **分析逻辑** (Analyze Logic): 推理过程是否合理？
+    - **综合信息** (Synthesize Information): 整合证据形成结论
+    - **做出判断** (Make Judgments): 清晰表达决策和理由
+  - 引入第二次投票："对于刚才的方案，哪个评价最合理？"
+    - 选项A：整合多学科但缺证据
+    - 选项B：有证据但单一视角
+    - 选项C：兼具整合和证据 ✓
+    - 选项D：创新但不可行
+  
+- **17-18分钟** (第二次分组讨论主持):
+  - 点名一位同学重述方案
+  - 引导组内用批判性思维评价（证据+逻辑）
+  - 点名合作组成员提供评价
 
 ---
 
-### 分工总结表
+### 新的分工总结表
 
-| 角色 | 成员 | 主要职责 | 时间分配 | 对应Guide要求 |
-|------|------|---------|---------|---------------|
-| **Lead Instructor 1** | 同学A | 开场、跨学科思维理论、总结 | 0-2分钟, 2-7分钟, 18-20分钟 | Session 1 ILO-1 (OBTL), Session 3 ILO-1 (Presentation) |
-| **Lead Instructor 2** | 同学B | 批判性思维理论、第二次讨论主持 | 11-16分钟 | Session 1 ILO-1 (OBTL), Session 3 ILO-2 (Facilitation), Session 2 ILO-2 (Feedback) |
-| **Facilitator** | 同学C | 第一次分组讨论主持、点名引导 | 7-11分钟 | Session 1 ILO-3 (Active Learning), Session 3 ILO-2 (Facilitation) |
-| **Tech & Summary** | 同学D | 数字工具操作、PPT制作、总结 | 全程技术支持 + 18-20分钟 | Session 4 ILO-1&2 (Digital Tools), Session 2 ILO-2 (Rubric Design) |
+| 角色 | 成员 | 负责维度 | 时间分配 | 主要职责 |
+|------|------|---------|---------|---------|
+| **维度1讲师 + 主持** | 同学A | 系统性问题定义 | 0-2分钟, 2-5分钟, 18-20分钟 | 开场、维度1讲解、总结、Q&A |
+| **维度2讲师** | 同学B | 跨界整合与应用 | 7-9分钟 | 维度2讲解、第一次讨论协助 |
+| **维度3讲师 + 第一次讨论** | 同学C | 证据收集与分析 | 9-15分钟 | 第一次讨论主持、维度3讲解 |
+| **维度4讲师 + 第二次讨论 + 技术** | 同学D | 逻辑推理与综合 | 15-18分钟 + 全程技术 | 维度4讲解、第二次讨论、数字工具 |
 
 ### 新课程流程时间轴
 
-| 时间 | 环节 | 负责人 | 活动内容 |
-|------|------|--------|---------|
-| 0-2分钟 | 开场 | 同学A | 介绍、学习目标 |
-| 2-7分钟 | 跨学科思维理论 | 同学A+D | 理论讲解 + 第一次投票（分thrust） |
-| 7-11分钟 | 第一次分组讨论 | 同学C | 小组讨论跨学科方案 + 点名回答 |
-| 11-16分钟 | 批判性思维理论 | 同学B+D | 理论讲解 + 第二次投票（评价选项） |
-| 16-18分钟 | 第二次分组讨论 | 同学B | 方案重述 + 组内评价 + 点合作组回答 |
-| 18-20分钟 | 总结 | 同学A+D | 回顾要点 + 自我评估引导 |
-| 20-25分钟 | Q&A | 同学A主持 | 问答互动 |
+| 时间 | 环节 | 负责人 | 维度 | 活动内容 |
+|------|------|--------|------|---------|
+| 0-2分钟 | 开场 | 同学A | - | 介绍、学习目标 |
+| 2-5分钟 | 跨学科维度1 | 同学A | 系统性问题定义 | 理论讲解 + 案例 |
+| 5-7分钟 | 第一次投票 | 同学A+D | - | Mentimeter投票（分thrust） |
+| 7-9分钟 | 跨学科维度2 | 同学B | 跨界整合与应用 | 理论讲解 + T型人才 |
+| 9-13分钟 | 第一次分组讨论 | 同学C | - | 小组讨论 + 点名分享 |
+| 13-15分钟 | 批判性维度3 | 同学C | 证据收集与分析 | 理论讲解 + 案例 |
+| 15-17分钟 | 第二次投票 + 批判性维度4 | 同学D | 逻辑推理与综合 | 维度4讲解 + 投票（评价选项） |
+| 17-18分钟 | 第二次分组讨论 | 同学D | - | 方案重述 + 评价 |
+| 18-20分钟 | 总结 | 同学A+D | - | 四维度总结 + 自我评估 |
+| 20-25分钟 | Q&A | 同学A主持 | - | 问答互动 |
 
 **团队协作体现**：
-- 全员参与前期资料搜集与PPT内容讨论
-- 同学A和B负责理论讲解，同学C负责互动facilitation，同学D负责技术支持
-- 现场演示时，非主讲成员随时准备补充或回答问题
-- Q&A环节由同学A分配问题，其他成员根据专长回答
-- 课后共同完成Group Report
+- 每位成员深入负责一个维度，确保讲解的深度和专业性
+- 跨学科思维两个维度（同学A+B）紧密衔接
+- 批判性思维两个维度（同学C+D）紧密衔接
+- 同学A负责整体协调和首尾呼应
+- 同学D兼顾技术支持，确保数字工具顺畅运行
+- 所有成员在Q&A环节根据自己的维度专长回答问题
 
 ---
 
@@ -248,6 +274,8 @@
 - 正文：思源黑体 Regular / Arial Regular
 - 字号：标题 32-36pt，正文 20-24pt
 
+**特别说明**: 每个维度由一位同学专门负责讲解，确保深度和专业性
+
 ---
 
 ### Slide 1: 标题页 (Title Slide)
@@ -256,14 +284,18 @@
 #### 内容 (Content)
 - **主标题**: 跨学科与批判性思维：从问题定义到方案评估  
   *Transdisciplinary and Critical Thinking: From Problem Definition to Solution Evaluation*
-- **副标题**: Developing Integrated Thinking Skills
-- **小组成员**: 同学A, 同学B, 同学C, 同学D
+- **副标题**: 四个维度的深入探索
+- **小组成员**: 
+  - 同学A (系统性问题定义)
+  - 同学B (跨界整合与应用)
+  - 同学C (证据收集与分析)
+  - 同学D (逻辑推理与综合)
 - **课程信息**: PDEV 6800X Micro-Teaching | Fall 2025
 
 #### 设计建议 (Design Tip)
-- 使用高质量背景图片（例如：思维导图、连接网络、跨学科符号）
-- 标题使用醒目颜色（红色或深蓝色）
-- 成员名字可用小图标或头像
+- 使用四象限布局标注四个维度和负责人
+- 背景图片象征"整合"与"思维"
+- 标题使用醒目颜色
 
 #### 对应Guide要求
 - **Session 3 ILO-1**: 创建专业、吸引人的presentation开场
@@ -276,254 +308,257 @@
 
 #### 内容 (Content)
 - **标题**: What Will You Learn Today?
-- **学习目标** (用图标标注)：
-  1. 🎯 **理解**跨学科思维和批判性思维的定义和四个维度
-  2. 🧠 **应用**跨学科思维设计解决方案
-  3. 🔍 **运用**批判性思维评估方案的可行性
-  4. ✅ **评估**自己的综合思维能力
+- **学习目标** (对应四个维度)：
+  1. 🎯 **掌握跨学科思维维度1**：系统性问题定义
+  2. 🔗 **掌握跨学科思维维度2**：跨界整合与应用
+  3. 📊 **掌握批判性思维维度3**：证据收集与分析
+  4. 🧠 **掌握批判性思维维度4**：逻辑推理与综合
+  5. ✅ **综合应用**：在真实案例中运用四个维度
 
 #### 设计建议 (Design Tip)
-- 使用带编号的图标列表 (numbered icons)
-- 每个目标用一行，搭配emoji或图标
-- 使用颜色区分不同认知层次（理解-蓝色、应用-绿色、评估-橙色）
+- 使用4+1的布局（4个维度+1个综合）
+- 每个维度配不同颜色图标
+- 标注负责讲解的同学
 
 #### 对应Guide要求
 - **Session 1 ILO-1**: 体现outcome-based teaching（明确学习目标）
-- **Clarity of Content (25%)**: 内容逻辑清晰，易于理解
+- **Clarity of Content (25%)**: 内容逻辑清晰
 
 ---
 
-### Slide 3: 什么是跨学科思维？(What is Transdisciplinary Thinking?)
-**讲者**: 同学A (2-4分钟)
+### Slide 3: 跨学科思维简介 (Introduction to Transdisciplinary Thinking)
+**讲者**: 同学A (2-2.5分钟)
 
 #### 内容 (Content)
-- **标题**: Transdisciplinary Thinking: Connecting Knowledge
-- **定义**: 
-  > "避免单一学科视角造成的认知偏见……其本质在于连接所学知识，构建一个复杂的框架……以便更好地定义、分析和解决复杂问题。"
-  
-- **两大维度**（用双柱图或流程图展示）：
-  1. **Systemic Problem Definition (系统性问题定义)**  
-     - 为复杂问题进行更好的定义和分析
-     - 例子：气候变化不仅是环境问题，还涉及经济、政策、社会
-  
-  2. **Cross-Boundary Integration & Application (跨界整合与应用)**  
-     - 连接所学知识（跨界整合）
-     - 解决问题（应用）
-     - 呼应"T型人才"的横向知识（Broad Spectrum of Knowledge）
+- **标题**: Transdisciplinary Thinking: Beyond Single Disciplines
+- **定义** (中英文):
+  - English: "Transdisciplinary thinking is an essential way of thinking... to avoid cognitive bias and conventional thinking caused by the single-disciplinary perspective..."
+  - 中文："避免单一学科视角造成的认知偏见...连接所学知识，构建复杂框架..."
+- **为什么重要**：
+  - 培养T型人才
+  - 解决复杂创新问题
+  - 获得认知优势
+- **两大维度预告**：
+  - 维度1：系统性问题定义（同学A讲解）
+  - 维度2：跨界整合与应用（同学B讲解）
 
 #### 设计建议 (Design Tip)
-- 使用双柱图或并排布局展示两大维度
-- 每个维度配图标（系统-网络图标，整合-拼图图标）
-- 添加T型人才示意图（横向=跨学科知识，纵向=专业深度）
-- 配色：两个维度用不同但协调的颜色
+- 简洁呈现定义（中英对照）
+- T型人才示意图
+- 用箭头指向两个维度
 
 #### 对应Guide要求
-- **Session 1 ILO-1**: 基于outcome-based理论讲解核心概念
-- **Session 3 ILO-1**: 使用视觉化工具增强理解
+- **Session 1 ILO-1**: 引入核心概念
+- **Clarity of Content (25%)**: 清晰引导
 
 ---
 
-### Slide 4: 第一次互动 - 分Thrust投票 (First Voting Activity)
-**讲者**: 同学A引导 + 同学D操作 (4-7分钟)
+### Slide 4: 维度1 - 系统性问题定义 (Dimension 1: Systemic Problem Definition)
+**讲者**: 同学A (2.5-5分钟)
 
 #### 内容 (Content)
-- **标题**: Your Turn: Apply Transdisciplinary Thinking! 🗳️
-- **案例问题**: "如何设计一个智能校园系统，既高效又尊重隐私？"
-- **投票问题**: 
-  1. "你来自哪个thrust/专业领域？"（开放文字回答或选择题）
-  2. "从你的专业视角，设计智能校园系统时需要考虑什么？"
-- **显示Mentimeter QR码**
+- **标题**: Dimension 1: Systemic Problem Definition
+- **核心概念**: 构建由功能、要素、关系和环境组成的复杂框架
+- **四个关键要素**（用流程图或框架图展示）:
+  1. **Functions (功能)**: 系统需要实现什么？
+  2. **Elements (要素)**: 涉及哪些关键组成部分？
+  3. **Relations (关系)**: 要素之间如何相互作用？
+  4. **Environment (环境)**: 外部环境有何影响？
+
+- **案例：智能校园系统**
+  - 功能：数据收集、智能分析、决策支持
+  - 要素：传感器、数据库、AI算法、用户界面
+  - 关系：数据流、控制流、反馈循环
+  - 环境：隐私法规、用户习惯、技术基础设施
 
 #### 设计建议 (Design Tip)
-- 案例问题用大字体、醒目颜色显示
-- Mentimeter QR码放在显眼位置（右侧或中央）
-- 使用动画效果吸引注意
-- 显示Mentimeter logo增加专业感
+- 使用四象限图或层次框架图
+- 每个要素配图标（功能-齿轮，要素-拼图，关系-箭头，环境-地球）
+- 智能校园案例用不同颜色标注四个要素
+- 突出"系统性"思维的全面性
 
 #### 对应Guide要求
-- **Session 1 ILO-3**: Active learning strategy (voting)
-- **Session 4 ILO-2**: 数字工具有效增强学习和参与度
-- **Audience Engagement (25%)**: 立即吸引观众参与
+- **Session 1 ILO-1**: 深入讲解核心维度
+- **Session 3 ILO-1**: 使用视觉化工具
 
 ---
 
-### Slide 5: 第一次分组讨论 (First Group Discussion)
-**讲者**: 同学C (7-11分钟)
+### Slide 5: 第一次投票 - 分Thrust (First Voting: Thrust Identification)
+**讲者**: 同学A引导 + 同学D操作 (5-7分钟)
 
 #### 内容 (Content)
-- **标题**: Group Activity: Design Your Transdisciplinary Solution 🤝
-- **讨论任务**:
+- **标题**: Interactive Activity: Your Perspective Matters! 🗳️
+- **过渡语**: "刚才我们学习了系统性问题定义。现在，让我们从你们各自的专业视角来看智能校园系统。"
+- **投票问题**:
+  1. "你来自哪个thrust/专业领域？"
+  2. "从你的专业视角，智能校园系统的哪些要素最重要？"
+- **Mentimeter QR码**
+
+#### 设计建议 (Design Tip)
+- 大号QR码
+- 投票结果实时显示（词云或柱状图）
+- 过渡到同学B的维度2
+
+#### 对应Guide要求
+- **Session 1 ILO-3**: Active learning (voting)
+- **Session 4 ILO-2**: 数字工具增强参与度
+
+---
+
+### Slide 6: 维度2 - 跨界整合与应用 (Dimension 2: Cross-Boundary Integration & Application)
+**讲者**: 同学B (7-9分钟)
+
+#### 内容 (Content)
+- **标题**: Dimension 2: Cross-Boundary Integration & Application
+- **核心概念**: 连接所学知识，构建跨学科解决方案（T型人才的横向知识）
+- **四个关键步骤**:
+  1. **Identify Disciplines (识别学科)**: 问题涉及哪些学科领域？
+  2. **Find Connections (寻找连接)**: 不同学科的共同点和互补点？
+  3. **Integrate Framework (整合框架)**: 如何构建跨学科方案？
+  4. **Apply Solutions (实际应用)**: 将整合知识应用于问题解决
+
+- **T型人才模型**:
+  - 横向（—）：广泛的跨学科知识
+  - 纵向（|）：特定领域的深厚专业技能
+  
+- **案例：智能校园整合**
+  - 识别：计算机科学、数据科学、UX设计、法律、社会学
+  - 连接：数据处理+用户体验、技术实现+法律合规
+  - 整合：构建用户友好、合规、高效的系统
+  - 应用：具体设计方案
+
+#### 设计建议 (Design Tip)
+- T型人才图示（大号、清晰）
+- 四步流程图（循环或线性）
+- 使用不同颜色标注不同学科
+- 展示整合后的综合方案
+
+#### 对应Guide要求
+- **Session 1 ILO-1**: 深入讲解核心维度
+- **Session 3 ILO-1**: 清晰呈现复杂概念
+
+---
+
+### Slide 7: 第一次分组讨论 (First Group Discussion)
+**讲者**: 同学C (9-13分钟)
+
+#### 内容 (Content)
+- **标题**: Group Activity: Apply Transdisciplinary Thinking! 🤝
+- **讨论任务** (3分钟):
+  - "运用跨学科思维（维度1+2）设计智能校园系统方案"
+  - 要求：
+    1. 系统性定义问题（功能、要素、关系、环境）
+    2. 跨界整合方案（识别学科、寻找连接、整合应用）
+- **讨论指引**:
   - 时间：3分钟小组讨论
-  - 任务：用跨学科思维设计智能校园系统方案
-  - 要求：运用两大维度
-    1. 系统性定义问题（涉及哪些方面？）
-    2. 跨界整合方案（如何整合不同领域知识？）
-- **讨论指引**（用流程图展示）:
-  1. **定义问题**: 智能校园系统涉及技术、隐私、用户体验、成本等
-  2. **整合视角**: 你们小组如何整合不同thrust的知识？
-  3. **提出方案**: 至少2个具体建议
+  - 分享：点名2位同学分享（每人30秒）
 
 #### 设计建议 (Design Tip)
-- 使用清晰的任务列表（带checkbox或数字）
-- 计时器图标提醒时间限制
-- 流程图展示讨论步骤（1→2→3）
-- 使用鼓励性图标（💡、🤝、🎯）
+- 清晰的任务列表
+- 计时器图标
+- 两个维度用不同颜色标注
+- 鼓励性图标
 
 #### 对应Guide要求
-- **Session 1 ILO-3**: 实施active learning strategy (group discussion)
-- **Session 3 ILO-2**: 提供清晰的活动指引
-- **Audience Engagement (25%)**: 充分吸引观众参与
-- **Facilitation of Interactions (25%)**: 顺畅管理互动
+- **Session 1 ILO-3**: Active learning (group discussion)
+- **Session 3 ILO-2**: 清晰的活动指引
 
 ---
 
-### Slide 6: 什么是批判性思维？(What is Critical Thinking?)
-**讲者**: 同学B (11-13分钟)
+### Slide 8: 批判性思维简介 + 维度3 (Critical Thinking Intro + Dimension 3)
+**讲者**: 同学C (13-15分钟)
 
 #### 内容 (Content)
-- **标题**: Critical Thinking: Evaluate with Evidence
-- **定义**: 
-  > "通过批判性思维，以清晰合理的方式做出判断和选择……审查所接收到的信息和数据，以确定其价值、真实性和功效。"
+- **标题**: Critical Thinking: Evaluate with Evidence and Logic
+
+- **批判性思维定义** (简短):
+  - English: "An integral psychological feature of innovative talent... make judgments and choices in a clear and reasonable way..."
+  - 中文："以清晰合理的方式做出判断和选择...审查信息和数据..."
+
+- **维度3: Evidence Gathering & Analysis**
+  - **四个关键步骤**:
+    1. **Gather Evidence (收集证据)**: 从多个来源获取信息
+    2. **Evaluate Value (评估价值)**: 信息是否相关和有用？
+    3. **Verify Authenticity (验证真实性)**: 信息是否可靠和准确？
+    4. **Determine Efficacy (确定功效)**: 信息能否有效支持决策？
+
+- **案例：评估智能校园方案的证据**
+  - 需要什么证据？技术可行性数据、成本分析、用户调研、合规报告
+  - 如何评估？数据来源可靠吗？样本量足够吗？方法科学吗？
+  - 证据质量分级：高质量（同行评审研究）vs 低质量（网络传闻）
+
+#### 设计建议 (Design Tip)
+- 四步流程图（证据金字塔形状）
+- 案例用表格形式展示不同证据及其质量
+- 使用放大镜图标代表"分析"
+
+#### 对应Guide要求
+- **Session 1 ILO-1**: 深入讲解维度3
+- **Clarity of Content (25%)**: 清晰呈现评估标准
+
+---
+
+### Slide 9: 维度4 + 第二次投票 (Dimension 4 + Second Voting)
+**讲者**: 同学D (15-17分钟)
+
+#### 内容 (Content)
+- **标题**: Dimension 4: Logical Reasoning & Synthesis
+
+- **维度4核心概念**: 以清晰合理的方式做出判断和选择
+- **四个关键步骤**:
+  1. **Identify Assumptions (识别假设)**: 方案基于什么假设？合理吗？
+  2. **Analyze Logic (分析逻辑)**: 推理过程是否严密？有无漏洞？
+  3. **Synthesize Information (综合信息)**: 整合多方证据形成结论
+  4. **Make Judgments (做出判断)**: 清晰表达决策及理由
+
+- **第二次投票**: "对于刚才小组提出的智能校园方案，哪个评价最合理？"
+  - **选项A**: 整合了多个学科但缺乏证据支持 🤔 (有维度1+2，缺维度3)
+  - **选项B**: 有充分证据但只考虑单一视角 📊 (有维度3，缺维度1+2)
+  - **选项C**: 兼具跨学科整合和证据支持 ✅ (有维度1+2+3，理想)
+  - **选项D**: 创新但逻辑推理存在问题 💡 (缺维度4)
+
+- **Mentimeter QR码**
+
+#### 设计建议 (Design Tip)
+- 维度4用天平图标（象征判断）
+- 四个投票选项用卡片布局，每个标注缺失或具备的维度
+- 实时显示投票结果
+
+#### 对应Guide要求
+- **Session 1 ILO-1**: 深入讲解维度4
+- **Session 4 ILO-2**: 数字工具增强互动
+
+---
+
+### Slide 10: 第二次讨论 + 总结 (Second Discussion + Summary)
+**讲者**: 同学D主持讨论 (17-18分钟) + 同学A总结 (18-20分钟)
+
+#### 内容 (Content)
+- **第二次讨论** (17-18分钟):
+  - 点名重述方案（30秒）
+  - 组内批判性评价：用维度3+4评估（证据+逻辑）
+  - 合作组评价（30秒）
+
+- **四维度综合总结** (18-20分钟):
+  ✅ **维度1 (同学A)**: 系统性问题定义 - 功能、要素、关系、环境  
+  ✅ **维度2 (同学B)**: 跨界整合与应用 - T型人才的横向知识  
+  ✅ **维度3 (同学C)**: 证据收集与分析 - 价值、真实性、功效  
+  ✅ **维度4 (同学D)**: 逻辑推理与综合 - 假设、逻辑、综合、判断  
   
-- **两大维度**（用双柱图或流程图展示）：
-  1. **Evidence Gathering & Analysis (证据收集与分析)**  
-     - 审查信息和数据
-     - 确定其价值、真实性和功效
-     - 例子：评估智能校园方案是否有数据支持
-  
-  2. **Logical Reasoning & Synthesis (逻辑推理与综合)**  
-     - 以清晰合理的方式做出判断
-     - 综合多方信息得出结论
-     - 例子：权衡隐私保护和系统效率
+  🎯 **综合应用**: 维度1+2构建方案 → 维度3+4评估方案 → 完整思维能力
+
+- **自我评估**: 扫码完成四维度自我评估（Google Form）
 
 #### 设计建议 (Design Tip)
-- 使用双柱图或并排布局展示两大维度
-- 每个维度配图标（证据-放大镜图标，推理-天平图标）
-- 与Slide 3形成视觉对应（跨学科 vs 批判性）
-- 配色：与Slide 3协调但有区分
+- 讨论部分：简洁的流程图
+- 总结部分：四象限布局，每个维度一个象限
+- 中央用箭头或循环图标示四维度如何协同
+- QR码（自我评估）
 
 #### 对应Guide要求
-- **Session 1 ILO-1**: 基于outcome-based理论讲解核心概念
-- **Session 3 ILO-1**: 使用视觉化工具增强理解
-- **Clarity of Content (25%)**: 内容清晰、逻辑连贯
-
----
-
-### Slide 7: 跨学科思维 vs 批判性思维 (Transdisciplinary vs Critical Thinking)
-**讲者**: 同学B (13-14分钟)
-
-#### 内容 (Content)
-- **标题**: Two Sides of the Same Coin
-- **对比表格**:
-
-| 维度 | 跨学科思维 (Transdisciplinary) | 批判性思维 (Critical) |
-|------|-------------------------------|----------------------|
-| **焦点** | 问题定义与方案设计 | 方案评估与判断 |
-| **核心能力** | 整合、连接、创新 | 分析、推理、评估 |
-| **两大维度** | 系统性定义 + 跨界整合 | 证据分析 + 逻辑推理 |
-| **关系** | 跨学科思维提出方案 → 批判性思维评估方案 |
-
-- **总结**: 两者相辅相成，缺一不可！
-
-#### 设计建议 (Design Tip)
-- 使用清晰的表格布局
-- 使用对比色（例如：跨学科用蓝色系，批判性用绿色系）
-- 在"关系"行使用箭头图标强调流程
-- 添加"两者相辅相成"的视觉元素（例如：阴阳图、拼图）
-
-#### 对应Guide要求
-- **Session 3 ILO-1**: 使用对比表格清晰呈现信息
-- **Clarity of Content (25%)**: 内容清晰、易于跟随
-
----
-
-### Slide 8: 第二次互动 - 方案评价投票 (Second Voting Activity)
-**讲者**: 同学B引导 + 同学D操作 (14-16分钟)
-
-#### 内容 (Content)
-- **标题**: Evaluate with Critical Thinking! 🔍
-- **背景**: 刚才我们听到了几个小组的智能校园系统方案
-- **投票问题**: "对于刚才小组提出的方案，你认为哪个评价最合理？"
-  - **选项A**: 方案整合了多个学科但缺乏证据支持 🤔
-  - **选项B**: 方案有充分证据但只考虑单一视角 📊
-  - **选项C**: 方案兼具跨学科整合和证据支持 ✅
-  - **选项D**: 方案创新但不可行 💡
-- **显示Mentimeter QR码**
-
-#### 设计建议 (Design Tip)
-- 四个选项用清晰的卡片或按钮布局
-- 每个选项配emoji增强视觉
-- 使用不同颜色区分选项（但不暗示对错）
-- Mentimeter QR码放在显眼位置
-
-#### 对应Guide要求
-- **Session 1 ILO-3**: Active learning strategy (voting + evaluation)
-- **Session 4 ILO-2**: 数字工具有效增强互动
-- **Session 2 ILO-2**: 引导学生进行peer evaluation思考
-
----
-
-### Slide 9: 第二次分组讨论 (Second Group Discussion)
-**讲者**: 同学B (16-18分钟)
-
-#### 内容 (Content)
-- **标题**: Refine Your Solution with Critical Thinking 🎯
-- **讨论任务**:
-  - 时间：2分钟
-  - 任务流程：
-    1. **重述方案** (30秒): 请一位成员重述你们小组的智能校园方案
-    2. **组内批判性评价** (60秒): 
-       - 证据是否充分？
-       - 逻辑是否合理？
-       - 可行性如何？
-    3. **合作组评价** (30秒): 点名请合作组一位成员提供外部评价
-
-#### 设计建议 (Design Tip)
-- 使用时间轴或流程图展示三步流程
-- 每步标注时间（30秒、60秒、30秒）
-- 使用图标：重述-麦克风，评价-天平，合作-握手
-- 计时器图标提醒时间管理
-
-#### 对应Guide要求
-- **Session 1 ILO-3**: Active learning (group discussion + peer evaluation)
-- **Session 2 ILO-2**: Peer feedback实践
-- **Session 3 ILO-2**: 有效facilitation，引导互动
-- **Facilitation of Interactions (25%)**: 及时管理讨论节奏
-
----
-
-### Slide 10: 总结与自我评估 (Summary & Self-Assessment)
-**讲者**: 同学A + 同学D (18-20分钟)
-
-#### 内容 (Content)
-- **标题**: Key Takeaways & Self-Assessment 🚀
-- **核心要点回顾** (呼应Slide 2学习目标):
-  ✅ **跨学科思维两大维度**: 系统性问题定义 + 跨界整合应用  
-  ✅ **批判性思维两大维度**: 证据收集分析 + 逻辑推理综合  
-  ✅ **实践应用**: 设计智能校园方案 → 批判性评估方案  
-  ✅ **相辅相成**: 整合知识 + 批判评估 = 完整思维能力
-
-- **自我评估Rubric**（显示QR码或链接）:
-  - 维度1：系统性问题定义能力 (1-5分)
-  - 维度2：跨界整合应用能力 (1-5分)
-  - 维度3：证据收集分析能力 (1-5分)
-  - 维度4：逻辑推理综合能力 (1-5分)
-
-- **延伸学习资源**:
-  - 📚 推荐阅读: "The Fifth Discipline" by Peter Senge
-  - 🌐 在线课程: Coursera "Critical Thinking & Problem Solving"
-
-#### 设计建议 (Design Tip)
-- 使用Checklist样式回顾要点（✅图标）
-- 自我评估用雷达图或进度条暗示四个维度
-- 推荐资源用书本、网站图标标注
-- 放置QR码或链接（自我评估表单）
-
-#### 对应Guide要求
-- **Session 1 ILO-1**: 呼应learning objectives，体现outcome-based teaching
-- **Session 2 ILO-2**: 设计formative assessment (self-assessment rubric)
-- **Session 4 ILO-1&2**: 使用数字工具收集评估数据
-- **Quality of Materials (20%)**: 提供延伸学习资源
+- **Session 1 ILO-1**: 呼应学习目标
+- **Session 2 ILO-2**: Formative assessment
+- **Session 3 ILO-2**: 有效facilitation
 
 ---
 
