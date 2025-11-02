@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-This comprehensive micro-teaching plan provides a complete guide for delivering a 20-minute interactive tutorial on **"Transdisciplinary and Critical Thinking: From Problem Definition to Solution Evaluation"**. The plan follows a new teaching framework that separates and integrates both thinking skills with interactive voting and group discussion activities.
+This comprehensive micro-teaching plan provides a complete guide for delivering a 20-minute interactive tutorial on **"Transdisciplinary and Critical Thinking: Four Dimensions Explored"**. The plan follows a **one-person-one-dimension approach** where each of the 4 team members is responsible for deeply explaining one specific dimension.
 
 ---
 
@@ -17,130 +17,132 @@ This comprehensive micro-teaching plan provides a complete guide for delivering 
 
 ### Recommended Topic: "Transdisciplinary and Critical Thinking: From Problem Definition to Solution Evaluation"
 
-### Core Focus: Two Thinking Skills with Four Dimensions
+### Core Focus: Four Dimensions, Four Team Members
 
-#### **1. Transdisciplinary Thinking**
-> "Avoiding cognitive biases from single-discipline perspectives... The essence is connecting learned knowledge to build a complex framework... for better defining, analyzing, and solving complex problems."
+#### **1. Transdisciplinary Thinking** (2 Dimensions)
 
-**Two Dimensions**:
-- **Systemic Problem Definition**: Better define and analyze complex problems
-- **Cross-Boundary Integration & Application**: Connect knowledge (integration) and solve problems (application), reflecting the horizontal knowledge of "T-shaped talent"
+**Official English Definition**: 
+> "Transdisciplinary thinking is an essential way of thinking required of RBM students to avoid cognitive bias and conventional thinking caused by the single-disciplinary perspective, thus cultivating the T-type talent. It helps students gain a cognitive edge and solve difficult problems for innovation. The essence of transdisciplinary thinking lies in connecting the knowledge learnt to develop a complex framework constructed by functions, elements, relations and environment for a better definition, analysis and resolution of complicated issues."
 
-#### **2. Critical Thinking**
-> "Through critical thinking, make judgments and choices in a clear and reasonable manner... examine received information and data to determine their value, authenticity, and effectiveness."
+**Dimension 1: Systemic Problem Definition** (Student A's responsibility)
+- **Functions**: What functions does the system need to achieve?
+- **Elements**: What are the key components?
+- **Relations**: How do elements interact?
+- **Environment**: What are the external environmental factors?
 
-**Two Dimensions**:
-- **Evidence Gathering & Analysis**: Examine information and data to determine value and authenticity
-- **Logical Reasoning & Synthesis**: Make judgments in a clear and reasonable manner
-
-### Why This Topic?
-
-1. **Important & Practical** ✅
-   - Covers all Session 1-4 ILO requirements
-   - Integrates both thinking skills comprehensively
-
-2. **Perfect for 20-Minute Format** ⏱️
-   - Clear 5-part structure following new teaching framework:
-     1. Transdisciplinary thinking theory (5 min) + Voting (thrust selection)
-     2. First group discussion (4 min) + Call on students
-     3. Critical thinking theory (5 min) + Voting (evaluation options)
-     4. Second group discussion (4 min) + Peer evaluation
-     5. Summary & Self-assessment (2 min)
-
-3. **Highly Interactive** 🎯
-   - Two voting activities using Mentimeter
-   - Two group discussion sessions
-   - Call-on-students approach for accountability
-
-4. **Clear 4-Member Division** 👥
-   - Student A: Host + Transdisciplinary thinking theory
-   - Student B: Critical thinking theory + Second discussion facilitator
-   - Student C: First discussion facilitator
-   - Student D: Digital tools manager + Summary
+**Dimension 2: Cross-Boundary Integration & Application** (Student B's responsibility)
+- **Identify Disciplines**: Which disciplines are relevant?
+- **Find Connections**: What are commonalities and complementarities?
+- **Integrate Framework**: How to build transdisciplinary solutions?
+- **Apply Solutions**: How to apply integrated knowledge?
+- Reflects **T-shaped talent** horizontal knowledge (Broad Spectrum of Knowledge)
 
 ---
 
-## Part 2: Division of Labor
+#### **2. Critical Thinking** (2 Dimensions)
+
+**Official English Definition**:
+> "Critical thinking is an integral psychological feature of innovative talent, requiring students to make judgments and choices in a clear and reasonable way through critical thinking. RBM students are required to obtain and construct knowledge in the AI era, whether through reading, experiments, or interdisciplinary group discussion. The information and data thus received should be examined after thorough and clear thinking to determine their value, authenticity and efficacy."
+
+**Dimension 3: Evidence Gathering & Analysis** (Student C's responsibility)
+- **Gather Evidence**: Obtain information from multiple sources
+- **Evaluate Value**: Is the information relevant and useful?
+- **Verify Authenticity**: Is the information reliable and accurate?
+- **Determine Efficacy**: Can the information effectively support decisions?
+
+**Dimension 4: Logical Reasoning & Synthesis** (Student D's responsibility)
+- **Identify Assumptions**: What assumptions underlie the solution? Are they reasonable?
+- **Analyze Logic**: Is the reasoning process rigorous? Any loopholes?
+- **Synthesize Information**: Integrate multiple pieces of evidence to form conclusions
+- **Make Judgments**: Clearly express decisions and rationale
+
+---
+
+## Part 2: Division of Labor (One Person, One Dimension)
 
 ### New Teaching Flow Timeline
 
-| Time | Activity | Leader | Content |
-|------|----------|--------|---------|
-| 0-2 min | Opening | Student A | Introduction, Learning Objectives |
-| 2-7 min | Transdisciplinary Theory | Student A+D | Theory + First Voting (thrust) |
-| 7-11 min | First Discussion | Student C | Group discussion on solutions + Call on students |
-| 11-16 min | Critical Thinking Theory | Student B+D | Theory + Second Voting (evaluation options) |
-| 16-18 min | Second Discussion | Student B | Restate solution + Group evaluation + Call on partner group |
-| 18-20 min | Summary | Student A+D | Review + Self-assessment |
-| 20-25 min | Q&A | Student A hosts | Interactive Q&A |
-
-### Student A: Host & Transdisciplinary Thinking Instructor
-**Responsibilities**: Opening (0-2 min), Transdisciplinary theory (2-7 min), Summary (18-20 min), Q&A (20-25 min)
-
-**Preparation**:
-- Research transdisciplinary thinking and four dimensions
-- Design first Mentimeter voting (thrust selection)
-- Prepare case study: "Smart Campus System Design"
-- Prepare PPT Slides 1-4
-
-**Key Delivery**:
-- Explain two dimensions of transdisciplinary thinking
-- Guide first voting activity
-- Summarize key takeaways
+| Time | Activity | Leader | Dimension | Content |
+|------|----------|--------|-----------|---------|
+| 0-2 min | Opening | Student A | - | Introduction, Learning Objectives |
+| 2-5 min | **Dimension 1** | Student A | Systemic Problem Definition | Theory + Case |
+| 5-7 min | First Voting | Student A+D | - | Mentimeter (thrust) |
+| 7-9 min | **Dimension 2** | Student B | Cross-Boundary Integration | Theory + T-shaped talent |
+| 9-13 min | First Discussion | Student C | - | Group discussion + Call on students |
+| 13-15 min | **Dimension 3** | Student C | Evidence Gathering & Analysis | Theory + Case |
+| 15-17 min | **Dimension 4** + Voting | Student D | Logical Reasoning & Synthesis | Theory + Voting (evaluation) |
+| 17-18 min | Second Discussion | Student D | - | Restate + Peer evaluation |
+| 18-20 min | Summary | Student A | - | Four dimensions integration |
+| 20-25 min | Q&A | Student A hosts | - | Interactive Q&A |
 
 ---
 
-### Student B: Critical Thinking Instructor & Second Discussion Facilitator
-**Responsibilities**: Critical thinking theory (11-16 min), Second discussion (16-18 min)
+### Student A: Transdisciplinary Thinking - Dimension 1 (Systemic Problem Definition)
+**Role**: Host + Dimension 1 Instructor + Summary
 
-**Preparation**:
-- Research critical thinking and four dimensions
-- Design second Mentimeter voting (4 evaluation options)
-- Prepare facilitation questions for second discussion
-- Prepare PPT Slides 6-9
+**Responsibilities**: 
+- Opening (0-2 min)
+- In-depth explanation of **Dimension 1**: Functions, Elements, Relations, Environment
+- Guide first Mentimeter voting (5-7 min)
+- Summary of four dimensions (18-20 min)
+- Host Q&A (20-25 min)
 
-**Key Delivery**:
-- Explain two dimensions of critical thinking
-- Guide second voting with 4 options:
-  - Option A: Integrated but lacks evidence
-  - Option B: Evidence-based but single perspective
-  - Option C: Both integrated and evidence-based ✓
-  - Option D: Creative but infeasible
-- Facilitate second discussion with call-on strategy
-
----
-
-### Student C: First Discussion Facilitator
-**Responsibilities**: First group discussion (7-11 min)
-
-**Preparation**:
-- Design discussion task clearly
-- Prepare facilitation techniques
-- Prepare call-on strategy
-- Prepare PPT Slide 5
-
-**Key Delivery** (4 minutes):
-- Task introduction (30 sec)
-- Group discussion (3 min)
-- Call on 2 students (30 sec each)
-- Provide specific feedback (30 sec)
+**Key Content**:
+- How to construct a complex framework with functions, elements, relations, and environment
+- Smart campus system case: 
+  - Functions: Data collection, analysis, decision support
+  - Elements: Sensors, database, AI algorithms, UI
+  - Relations: Data flow, control flow, feedback loops
+  - Environment: Privacy regulations, user habits, tech infrastructure
 
 ---
 
-### Student D: Digital Tools Manager & Visual Designer
-**Responsibilities**: Technical support (full session), Summary support (18-20 min)
+### Student B: Transdisciplinary Thinking - Dimension 2 (Cross-Boundary Integration & Application)
+**Role**: Dimension 2 Instructor
 
-**Preparation**:
-- Design complete PPT (10 slides)
-- Set up Mentimeter voting 1: Thrust selection
-- Set up Mentimeter voting 2: Evaluation options (4 choices)
-- Create self-assessment Google Form (4 dimensions)
-- Prepare PPT Slides 9-10
+**Responsibilities**: 
+- In-depth explanation of **Dimension 2** (7-9 min)
+- Emphasize T-shaped talent model
+- Show how to integrate different disciplines
 
-**Key Delivery**:
-- Operate Mentimeter during both voting sessions
-- Display real-time results
-- Guide self-assessment at end
+**Key Content**:
+- Four steps: Identify Disciplines → Find Connections → Integrate Framework → Apply Solutions
+- T-shaped talent: Horizontal (broad interdisciplinary knowledge) + Vertical (deep expertise)
+- Smart campus integration: CS + Data Science + UX + Law + Sociology
+
+---
+
+### Student C: Critical Thinking - Dimension 3 (Evidence Gathering & Analysis)
+**Role**: Dimension 3 Instructor + First Discussion Facilitator
+
+**Responsibilities**: 
+- Facilitate first group discussion (9-13 min)
+- In-depth explanation of **Dimension 3** (13-15 min)
+- Emphasize how to evaluate information value, authenticity, and efficacy
+
+**Key Content**:
+- Four steps: Gather Evidence → Evaluate Value → Verify Authenticity → Determine Efficacy
+- Smart campus evidence: Technical feasibility data, cost-benefit analysis, user research, compliance reports
+- Evidence quality grading: High quality (peer-reviewed) vs Low quality (online rumors)
+
+---
+
+### Student D: Critical Thinking - Dimension 4 (Logical Reasoning & Synthesis)
+**Role**: Dimension 4 Instructor + Second Discussion Facilitator + Tech Manager
+
+**Responsibilities**: 
+- In-depth explanation of **Dimension 4** (15-17 min)
+- Guide second Mentimeter voting with 4 evaluation options
+- Facilitate second discussion (17-18 min)
+- Technical support throughout (operate Mentimeter)
+
+**Key Content**:
+- Four steps: Identify Assumptions → Analyze Logic → Synthesize Information → Make Judgments
+- Second voting options:
+  - A: Has Dim 1+2, lacks Dim 3 (integrated but no evidence)
+  - B: Has Dim 3, lacks Dim 1+2 (evidence but single perspective)
+  - C: Has Dim 1+2+3 (ideal solution) ✓
+  - D: Lacks Dim 4 (creative but logical issues)
 
 ---
 
@@ -148,193 +150,140 @@ This comprehensive micro-teaching plan provides a complete guide for delivering 
 
 **Total Slides**: 10  
 **Design Style**: Clean, professional, visual  
-**Color Scheme**: HKUST(GZ) red (#BB0E3D) + neutral colors
+**Special Note**: Each dimension explained by one dedicated team member
 
 ---
 
-### Slide 1: Title Slide
-**Speaker**: Student A (0-0.5 min)
-- Title: "Transdisciplinary and Critical Thinking: From Problem Definition to Solution Evaluation"
-- Team members and course info
+### Slide 1: Title Slide (Student A, 0-0.5 min)
+- Title: "Transdisciplinary and Critical Thinking: Four Dimensions Explored"
+- Team members with their assigned dimensions:
+  - Student A (Systemic Problem Definition)
+  - Student B (Cross-Boundary Integration)
+  - Student C (Evidence Gathering & Analysis)
+  - Student D (Logical Reasoning & Synthesis)
 
 ---
 
-### Slide 2: Learning Objectives
-**Speaker**: Student A (0.5-2 min)
-- 4 learning objectives:
-  1. Understand definitions and four dimensions
-  2. Apply transdisciplinary thinking to design solutions
-  3. Use critical thinking to evaluate solutions
-  4. Assess own integrated thinking abilities
+### Slide 2: Learning Objectives (Student A, 0.5-2 min)
+- Master 4 dimensions:
+  1. Dimension 1: Systemic Problem Definition
+  2. Dimension 2: Cross-Boundary Integration & Application
+  3. Dimension 3: Evidence Gathering & Analysis
+  4. Dimension 4: Logical Reasoning & Synthesis
+- Integrated application in real cases
 
 ---
 
-### Slide 3: What is Transdisciplinary Thinking?
-**Speaker**: Student A (2-4 min)
-- Definition and importance
-- **Two dimensions**:
-  1. Systemic Problem Definition
-  2. Cross-Boundary Integration & Application
-- T-shaped talent visual
-- Example: Smart campus involves tech, privacy, UX, cost
+### Slide 3: Transdisciplinary Thinking Introduction (Student A, 2-2.5 min)
+- Official English definition
+- Why important: T-shaped talent, solve complex problems, cognitive edge
+- Preview of Dimensions 1 & 2
 
 ---
 
-### Slide 4: First Voting - Thrust Selection
-**Speaker**: Student A + Student D (4-7 min)
-- Case: "Design a smart campus system that's efficient and respects privacy"
-- Voting questions:
-  1. "Which thrust/major are you from?"
-  2. "From your professional perspective, what should be considered?"
-- Display Mentimeter QR code
-- Show real-time results
+### Slide 4: Dimension 1 - Systemic Problem Definition (Student A, 2.5-5 min)
+- **Four key elements**: Functions, Elements, Relations, Environment
+- Framework diagram with four components
+- Smart campus case with concrete examples
+- Visual: Four-quadrant or layered framework diagram
 
 ---
 
-### Slide 5: First Group Discussion
-**Speaker**: Student C (7-11 min)
-- Discussion task (3 min): Design smart campus solution using transdisciplinary thinking
-- Requirements:
-  1. Define problem systematically
-  2. Integrate cross-boundary knowledge
-  3. Propose at least 2 specific suggestions
-- Call on 2 students to share
-- Provide specific feedback
+### Slide 5: First Voting - Thrust Identification (Student A+D, 5-7 min)
+- Question: "Which thrust are you from? What considerations from your perspective?"
+- Mentimeter QR code
+- Real-time results display
+- Transition to Dimension 2
 
 ---
 
-### Slide 6: What is Critical Thinking?
-**Speaker**: Student B (11-13 min)
-- Definition and importance
-- **Two dimensions**:
-  1. Evidence Gathering & Analysis
-  2. Logical Reasoning & Synthesis
-- Examples related to smart campus evaluation
+### Slide 6: Dimension 2 - Cross-Boundary Integration (Student B, 7-9 min)
+- **Four key steps**: Identify → Find Connections → Integrate → Apply
+- T-shaped talent model (prominent display)
+- Smart campus integration example
+- Visual: T-shaped diagram + integration flowchart
 
 ---
 
-### Slide 7: Transdisciplinary vs Critical Thinking
-**Speaker**: Student B (13-14 min)
-- Comparison table:
-  - Focus: Problem definition vs Solution evaluation
-  - Core abilities: Integration vs Analysis
-  - Relationship: Complementary, indispensable
+### Slide 7: First Group Discussion (Student C, 9-13 min)
+- Task: Apply Dimensions 1+2 to design smart campus solution
+- Requirements: Systemic definition + Cross-boundary integration
+- Time: 3 min discussion + call on 2 students
 
 ---
 
-### Slide 8: Second Voting - Evaluation Options
-**Speaker**: Student B + Student D (14-16 min)
-- Question: "Which evaluation is most reasonable for the proposed solutions?"
-- **4 options**:
-  - A: Integrated but lacks evidence 🤔
-  - B: Evidence-based but single perspective 📊
-  - C: Both integrated and evidence-based ✅
-  - D: Creative but infeasible 💡
-- Display Mentimeter QR code
-- Show real-time results
+### Slide 8: Critical Thinking Intro + Dimension 3 (Student C, 13-15 min)
+- Official English definition (brief)
+- **Dimension 3**: Evidence Gathering & Analysis
+- **Four steps**: Gather → Evaluate Value → Verify Authenticity → Determine Efficacy
+- Smart campus evidence evaluation case
+- Visual: Evidence pyramid or quality ladder
 
 ---
 
-### Slide 9: Second Group Discussion
-**Speaker**: Student B (16-18 min)
-- Task (2 min):
-  1. Restate solution (30 sec) - call on 1 student
-  2. Group critical evaluation (60 sec): Evidence? Logic? Feasibility?
-  3. Partner group evaluation (30 sec) - call on partner group member
+### Slide 9: Dimension 4 + Second Voting (Student D, 15-17 min)
+- **Dimension 4**: Logical Reasoning & Synthesis
+- **Four steps**: Identify Assumptions → Analyze Logic → Synthesize → Make Judgments
+- Second voting: "Which evaluation is most reasonable?"
+  - Option A, B, C, D (with dimension indicators)
+- Mentimeter QR code
 
 ---
 
-### Slide 10: Summary & Self-Assessment
-**Speaker**: Student A + Student D (18-20 min)
-- Key takeaways:
-  ✅ Transdisciplinary: Systemic definition + Cross-boundary integration  
-  ✅ Critical thinking: Evidence analysis + Logical reasoning  
-  ✅ Practice: Design solutions → Evaluate critically  
-  ✅ Complementary: Integration + Evaluation = Complete thinking
-
-- Self-assessment rubric (4 dimensions, 1-5 scale)
-- Further learning resources
+### Slide 10: Second Discussion + Summary (Student D, 17-18 min; Student A, 18-20 min)
+- **Discussion** (17-18 min): Restate + Group evaluation using Dim 3+4
+- **Summary** (18-20 min):
+  - ✅ Dimension 1 (Student A): Systemic Problem Definition
+  - ✅ Dimension 2 (Student B): Cross-Boundary Integration
+  - ✅ Dimension 3 (Student C): Evidence Gathering & Analysis
+  - ✅ Dimension 4 (Student D): Logical Reasoning & Synthesis
+  - 🎯 Integration: Dim 1+2 build solutions → Dim 3+4 evaluate solutions
+- Self-assessment QR code (4 dimensions)
 
 ---
 
 ## Guide Requirements Alignment
 
-| Guide Criterion | Implementation | Slides |
-|----------------|----------------|---------|
-| Session 1 ILO-1 (Outcome-based) | Clear objectives, formative assessment | 2, 10 |
-| Session 1 ILO-3 (Active Learning) | 2 voting activities, 2 discussions, call-on | 4, 5, 8, 9 |
-| Session 2 ILO-2 (Feedback) | Group evaluation, self-assessment | 8, 9, 10 |
-| Session 3 ILO-1 (Presentation) | Clear structure, visual tools | All slides |
-| Session 3 ILO-2 (Facilitation) | Guide discussions, manage interactions | 5, 9 |
-| Session 4 ILO-1&2 (Digital Tools) | Mentimeter (2×), Google Form | 4, 8, 10 |
+| Guide Criterion | Implementation | Students |
+|----------------|----------------|----------|
+| Session 1 ILO-1 (Outcome-based) | Clear objectives, each dimension = learning outcome | All |
+| Session 1 ILO-3 (Active Learning) | 2 voting activities, 2 discussions, call-on | C, D |
+| Session 2 ILO-2 (Feedback) | Peer evaluation, self-assessment | C, D |
+| Session 3 ILO-1 (Presentation) | Clear structure, deep dive per dimension | All |
+| Session 3 ILO-2 (Facilitation) | Guide discussions, manage Q&A | A, C, D |
+| Session 4 ILO-1&2 (Digital Tools) | Mentimeter (2×), Google Form | D |
 
 ---
 
-## Key Interactive Activities
+## Key Advantages of One-Person-One-Dimension Approach
 
-### Activity 1: First Mentimeter Voting (4-7 min)
-- **Purpose**: Activate professional background awareness
-- **Type**: Thrust selection + perspective sharing
-- **Tool**: Mentimeter (word cloud / bar chart)
-
-### Activity 2: First Group Discussion (7-11 min)
-- **Purpose**: Apply transdisciplinary thinking
-- **Type**: Group discussion (3 min) + call on 2 students
-- **Facilitation**: Student C guides with specific questions
-
-### Activity 3: Second Mentimeter Voting (14-16 min)
-- **Purpose**: Practice critical thinking evaluation
-- **Type**: Multiple choice (4 options)
-- **Tool**: Mentimeter (pie chart / bar chart)
-
-### Activity 4: Second Group Discussion (16-18 min)
-- **Purpose**: Apply critical thinking to evaluate solutions
-- **Type**: Restate + group evaluation + partner evaluation
-- **Facilitation**: Student B calls on specific students
+1. **Depth over Breadth**: Each member becomes an expert in their dimension
+2. **Clear Accountability**: Easy to identify who is responsible for what
+3. **Balanced Workload**: Each member has approximately 2-3 minutes of focused delivery
+4. **Seamless Integration**: Four dimensions naturally connect through the teaching flow
+5. **Better Preparation**: Members can deeply research their specific dimension
+6. **Effective Q&A**: Questions distributed based on dimension expertise
 
 ---
 
 ## Success Factors
 
-### Preparation Checklist
-- [ ] All 4 team members understand their specific roles
-- [ ] Mentimeter both voting activities tested
-- [ ] Google Form self-assessment created
-- [ ] At least 2 full rehearsals with strict timing
-- [ ] Backup plans ready for technical issues
+### Preparation
+- [ ] Each member deeply researches their assigned dimension
+- [ ] Practice smooth transitions between dimensions
+- [ ] Ensure all four dimensions are clearly distinguished yet integrated
 
-### Time Management Keys
-- [ ] 2 min: Complete learning objectives
-- [ ] 7 min: Complete first voting, enter discussion
-- [ ] 11 min: Complete first discussion, start critical thinking
-- [ ] 16 min: Complete second voting, enter discussion
-- [ ] 18 min: Complete second discussion, enter summary
-- [ ] 20 min: Finish on time, enter Q&A
+### Delivery
+- [ ] Strictly follow time allocation (2-3 min per dimension)
+- [ ] Emphasize the unique aspects of each dimension
+- [ ] Show how dimensions work together in summary
 
-### Facilitation Tips
-- **First discussion**: Walk around, provide guiding questions
-- **Second discussion**: Call on students strategically
-- **Both discussions**: Provide specific, actionable feedback
+### Q&A
+- [ ] Host (Student A) directs questions to relevant dimension expert
+- [ ] Each member prepared to answer deep questions about their dimension
 
 ---
 
-## Reference Materials
-
-**Transdisciplinary Thinking**:
-- Klein, J. T. (2010). "A taxonomy of interdisciplinarity"
-- Focus on T-shaped talent model
-
-**Critical Thinking**:
-- Paul, R. & Elder, L. "Critical Thinking: Concepts and Tools"
-- World Economic Forum: Critical Thinking as Top 5 skill
-
-**Case Studies**:
-- Smart campus systems
-- Climate change solutions
-- AI ethics in healthcare
-
----
-
-**Document Version**: v2.0  
+**Document Version**: v3.0 (One-Person-One-Dimension)  
 **Last Updated**: 2025  
 **For Course**: PDEV 6800X Introduction to Teaching and Learning in Higher Education
