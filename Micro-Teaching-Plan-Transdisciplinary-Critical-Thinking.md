@@ -9,14 +9,25 @@
 
 ## 第一部分：详细选题 (Topic Selection)
 
-### 推荐课题：**"培养跨学科思维：从问题识别到创新解决方案"**  
-**副标题**: Developing Transdisciplinary Thinking: From Problem Identification to Innovative Solutions
+### 推荐课题：**"跨学科与批判性思维：从问题定义到方案评估"**  
+**副标题**: Transdisciplinary and Critical Thinking: From Problem Definition to Solution Evaluation
 
 ### 选题范围缩窄与聚焦
-从"跨学科与批判性思维"这一宏观主题中，我们聚焦于：
-- **跨学科思维的核心原则**（整合不同领域知识）
-- **实际应用场景**（真实案例分析）
-- **培养批判性思维的实践方法**（评估信息、识别偏见、创新解决问题）
+从"跨学科与批判性思维"这一宏观主题中，我们聚焦于两大核心能力及其四个维度：
+
+#### **1. 跨学科思维 (Transdisciplinary Thinking)**
+> "避免单一学科视角造成的认知偏见……其本质在于连接所学知识，构建一个复杂的框架……以便更好地定义、分析和解决复杂问题。"
+
+**两大维度**：
+- **Systemic Problem Definition (系统性问题定义)**：为复杂问题进行更好的定义和分析
+- **Cross-Boundary Integration & Application (跨界整合与应用)**：连接所学知识（跨界整合）并解决问题（应用），呼应"T型人才"的横向知识
+
+#### **2. 批判性思维 (Critical Thinking)**
+> "通过批判性思维，以清晰合理的方式做出判断和选择……审查所接收到的信息和数据，以确定其价值、真实性和功效。"
+
+**两大维度**：
+- **Evidence Gathering & Analysis (证据收集与分析)**：审查信息和数据，确定其价值和真实性
+- **Logical Reasoning & Synthesis (逻辑推理与综合)**：以清晰合理的方式做出判断和选择
 
 ### 为什么推荐这个课题？
 
@@ -29,11 +40,12 @@
   - **Session 4 ILO-1&2**: 可以整合数字工具（Kahoot quiz、Miro协作白板、Padlet等）
 
 #### 2. **适合20分钟讲解** ⏱️
-课题结构清晰，可分为4个模块（每个5分钟）：
-1. **引入与概念澄清**（What & Why）
-2. **跨学科思维的核心原则**（How - 理论框架）
-3. **互动案例分析**（Active Learning - 实践应用）
-4. **总结与自我评估**（Reflection & Feedback）
+课题结构清晰，遵循新的教学流程框架，可分为4个主要环节：
+1. **跨学科思维理论讲解** (5分钟) + 投票互动（分thrust选择）
+2. **第一次分组讨论** (4分钟)：跨学科方案设计 + 点名回答
+3. **批判性思维理论讲解** (5分钟) + 投票互动（评价选项选择）
+4. **第二次分组讨论** (4分钟)：方案重述、组内评价 + 点合作组回答
+5. **总结与自我评估** (2分钟)
 
 #### 3. **易于互动与参与** ��
 - 可以设计**真实案例分析**（例如：气候变化、公共卫生、AI伦理等跨学科问题）
@@ -44,10 +56,10 @@
   - **Canvas Discussion**: 课后延伸讨论
 
 #### 4. **适合4人分工** 👥
-- **同学A**: 主持人 - 引入主题、概念澄清
-- **同学B**: 理论讲解 - 跨学科思维框架与原则
-- **同学C**: 案例分析主持 - 带领互动活动
-- **同学D**: 数字工具操作 & 总结 - 管理Kahoot/Miro、总结要点
+- **同学A**: 主持人 + 跨学科思维理论讲解
+- **同学B**: 批判性思维理论讲解 + 第二次讨论主持
+- **同学C**: 第一次分组讨论主持 + 点名引导
+- **同学D**: 数字工具操作（投票系统）+ 总结
 
 #### 5. **与课程材料紧密结合** 📚
 从提供的Lecture 1-3中可以整合的内容：
@@ -61,29 +73,36 @@
 
 ### 分工原则
 - **全员参与**: 每位成员都有台上讲解部分（符合Guide要求）
-- **角色互补**: Lead Instructors + Facilitators分工明确
+- **理论+互动结合**: 理论讲解与分组讨论交替进行
 - **覆盖全流程**: 从前期准备到现场演示到互动环节
 
 ---
 
-### 同学A：主持人 & 引入讲师 (Host & Lead Instructor 1)
-**总体协调者 + 开场与收尾**
+### 同学A：主持人 & 跨学科思维理论讲师 (Host & Transdisciplinary Thinking Instructor)
+**总体协调者 + 开场 + 跨学科思维理论**
 
 #### 前期准备（课前1-2周）
 - [ ] 协调小组会议，分配任务时间表
-- [ ] 收集真实跨学科案例（气候变化、AI伦理、公共卫生等）
-- [ ] 设计Kahoot开场quiz题目（5-7题）
-- [ ] 准备PPT第1-3页（标题页、引入、学习目标）
+- [ ] 深入研究跨学科思维理论和四个维度
+- [ ] 设计第一次投票活动（分thrust选择）
+- [ ] 准备PPT第1-4页（标题页、学习目标、跨学科思维理论、投票）
+- [ ] 准备真实案例（用于两次分组讨论）
 
 #### 现场演示（20分钟课堂）
-- **0-3分钟**: 
-  - 开场致辞，介绍小组成员
+- **0-2分钟**: 
+  - 开场致辞，介绍小组成员和课程主题
   - 说明本节课的学习目标（Learning Objectives）
-  - 引导Kahoot开场quiz（由同学D操作）
-  - 提出核心问题："什么是跨学科思维？为什么重要？"
+- **2-7分钟** (跨学科思维理论讲解):
+  - 讲解跨学科思维定义和重要性
+  - 详细阐述**两大维度**：
+    1. **Systemic Problem Definition (系统性问题定义)**
+    2. **Cross-Boundary Integration & Application (跨界整合与应用)**
+  - 举例说明：T型人才的横向知识整合
+  - 引入第一次投票：**"你来自哪个thrust？你会如何用你的专业视角看待[案例问题]？"**
+  - 操作Mentimeter显示投票结果（由同学D配合）
 - **18-20分钟**: 
   - 课程总结（呼应学习目标）
-  - 引导学生完成自我评估rubric（Formative Assessment）
+  - 强调跨学科思维和批判性思维的结合
 
 #### 互动与Q&A（5分钟）
 - 主持Q&A环节，分配问题给其他成员回答
@@ -91,60 +110,70 @@
 
 ---
 
-### 同学B：理论讲师 (Lead Instructor 2)
-**核心内容讲解 - 跨学科思维框架**
+### 同学B：批判性思维理论讲师 & 第二次讨论主持 (Critical Thinking Instructor & Discussion Facilitator)
+**批判性思维理论 + 第二次讨论引导**
 
 #### 前期准备（课前1-2周）
-- [ ] 深入研究跨学科思维理论（查阅学术文献和网络资源）
-- [ ] 提炼核心原则（例如：Integration, Synthesis, Multiple Perspectives, Innovation）
-- [ ] 设计清晰的理论框架图（流程图或思维导图）
-- [ ] 准备PPT第4-6页（理论框架、核心原则、对比表格）
-- [ ] 准备视觉化素材（图表、图标、例子）
+- [ ] 深入研究批判性思维理论和四个维度
+- [ ] 设计第二次投票活动（评价选项）
+- [ ] 准备PPT第6-8页（批判性思维理论、投票、第二次讨论指引）
+- [ ] 设计方案评价的四个选项（用于投票）
+- [ ] 准备facilitation问题清单
 
 #### 现场演示（20分钟课堂）
-- **3-8分钟**: 
-  - 讲解跨学科思维的核心原则：
-    1. **整合多领域知识** (Integration)
-    2. **识别复杂问题的多维度** (Multiple Perspectives)
-    3. **综合分析与批判性评估** (Synthesis & Critical Evaluation)
-    4. **创新解决方案** (Innovation)
-  - 使用对比表格：单学科 vs 跨学科思维
-  - 举例说明：气候变化问题需要整合环境科学、经济学、政策制定、社会学等
+- **11-16分钟** (批判性思维理论讲解):
+  - 讲解批判性思维定义
+  - 详细阐述**两大维度**：
+    1. **Evidence Gathering & Analysis (证据收集与分析)**
+    2. **Logical Reasoning & Synthesis (逻辑推理与综合)**
+  - 说明如何用批判性思维评估跨学科方案
+  - 引入第二次投票：**"对于刚才小组提出的方案，你认为哪个评价最合理？"**
+    - 选项A：方案整合了多个学科但缺乏证据支持
+    - 选项B：方案有充分证据但只考虑单一视角
+    - 选项C：方案兼具跨学科整合和证据支持
+    - 选项D：方案创新但不可行
+  - 操作Mentimeter显示投票结果（由同学D配合）
+  - 引导第二次分组讨论（2-3分钟）
+  - 点名请一位同学重述自己小组的方案
+  - 引导组内成员进行批判性评价
+  - 点名请合作组的一位同学提供评价
 
-#### 支持互动环节
-- 协助同学C管理小组讨论，回答学生关于理论的疑问
+#### 支持其他环节
+- 协助同学C在第一次讨论时提供理论支持
+- 回答观众关于批判性思维的问题
 
 ---
 
-### 同学C：案例分析主持人 & 互动活动设计师 (Facilitator & Active Learning Designer)
-**互动环节的核心设计者与主持人**
+### 同学C：第一次分组讨论主持人 (First Discussion Facilitator)
+**第一次互动环节的核心主持人**
 
 #### 前期准备（课前1-2周）
-- [ ] 设计互动案例分析活动（选择1个真实跨学科问题）
-- [ ] 准备案例背景材料（例如：AI在医疗诊断中的伦理问题）
-- [ ] 设计活动流程：
-  - Think (个人思考 1分钟)
-  - Pair/Small Group Discussion (小组讨论 3分钟)
-  - Share (全班分享 3分钟)
-- [ ] 准备PPT第7-8页（案例介绍、活动指引）
-- [ ] 准备facilitation问题清单（引导学生思考的开放式问题）
+- [ ] 与同学A协作设计案例问题
+- [ ] 准备facilitation技巧和引导问题
+- [ ] 准备PPT第5页（第一次分组讨论指引）
+- [ ] 设计分组策略（如何快速分组）
+- [ ] 准备点名策略和问题清单
 
 #### 现场演示（20分钟课堂）
-- **8-15分钟**: 
-  - **案例介绍** (2分钟): 
-    - 呈现真实案例："AI医疗诊断系统：技术、伦理与社会影响"
-    - 案例背景：AI系统在诊断中准确率高，但存在数据偏见、隐私问题、责任归属不清等
-  - **互动活动** (5分钟):
-    - 引导学生进行Think-Pair-Share
-    - 提问："从技术、伦理、法律、社会学角度，这个问题涉及哪些维度？如何整合不同领域知识解决？"
-    - 在Miro/Padlet上收集学生想法（由同学D操作）
-  - **全班分享** (3分钟):
-    - 邀请2-3组分享他们的跨学科分析
-    - 提供即时、具体的feedback（例如："你们很好地整合了技术和伦理视角，如果再考虑政策层面会更全面"）
+- **7-11分钟** (第一次分组讨论):
+  - **活动引入** (30秒):
+    - 清晰说明讨论任务："请用跨学科思维设计一个解决[案例问题]的方案"
+    - 说明讨论时间：3分钟
+    - 提醒学生运用刚才学到的两大维度
+  - **分组讨论** (3分钟):
+    - 宣布分组（例如：邻座2-4人为一组）
+    - 巡视各组，适时提供引导
+    - 观察讨论热度，记录活跃小组
+  - **点名回答** (30秒 × 2):
+    - 点名第一位同学："[姓名]同学，请分享你们小组的跨学科方案"
+    - 点名第二位同学（不同小组）："[姓名]同学，你们小组有什么不同的想法？"
+  - **简短feedback** (30秒):
+    - 表扬具体的跨学科整合点
+    - 过渡到批判性思维环节："方案很好，但我们如何评估这些方案的可行性呢？"
 
 #### 支持其他环节
-- 协助同学A和B回答观众问题
-- 观察观众参与度，适时调整互动节奏
+- 协助同学B在第二次讨论时管理时间
+- 观察观众参与度，适时调整节奏
 
 ---
 
@@ -152,31 +181,29 @@
 **技术支持 + PPT制作 + 总结**
 
 #### 前期准备（课前1-2周）
-- [ ] 设计并制作完整PPT（10-12页）
+- [ ] 设计并制作完整PPT（9-10页）
   - 确保视觉一致性（颜色、字体、布局）
   - 添加图标、图表、动画效果
-- [ ] 设置Kahoot quiz（5-7题，测试学生对跨学科思维的理解）
-- [ ] 准备Miro/Padlet协作板（用于案例分析收集学生想法）
-- [ ] 准备自我评估Rubric（Google Form或Canvas）
-- [ ] 准备PPT第9-12页（案例分析结果展示、自我评估、总结、参考资料）
+- [ ] 设置Mentimeter两次投票：
+  - 第一次：分thrust投票（开放式文字+选择题）
+  - 第二次：评价选项投票（4个选项）
+- [ ] 准备自我评估Rubric（包含跨学科和批判性思维维度）
 - [ ] 测试所有数字工具，确保网络连接和账号权限
+- [ ] 准备PPT第9-10页（总结、自我评估、参考资料）
 
 #### 现场演示（20分钟课堂）
-- **0-3分钟**: 
-  - 操作Kahoot quiz，显示实时排名和结果分析
-- **8-15分钟**: 
-  - 操作Miro/Padlet，实时收集和展示学生的案例分析想法
-  - 捕捉关键观点，在PPT上展示
-- **15-18分钟**: 
-  - 讲解并展示自我评估Rubric
-  - 说明rubric的四个维度（例如：整合能力、批判性思维、创新性、沟通表达）
-  - 引导学生扫码/链接完成自我评估（Formative Assessment）
-- **18-20分钟**: 
-  - 总结本节课要点（呼应学习目标）
+- **全程技术支持**:
+  - 2-7分钟：操作第一次Mentimeter投票，实时显示结果
+  - 11-16分钟：操作第二次Mentimeter投票，实时显示结果
+  - 随时切换PPT页面，配合其他成员演示
+- **18-20分钟** (总结与自我评估):
+  - 快速回顾两大核心能力和四个维度
+  - 展示自我评估Rubric（包含4个维度评估）
+  - 引导学生课后完成自我评估
   - 展示参考资料和延伸学习资源
 
 #### 技术troubleshooting
-- 随时准备Plan B（例如：Kahoot无法连接时，改用举手投票）
+- 随时准备Plan B（例如：Mentimeter无法连接时，改用举手投票）
 - 记录课堂互动数据（用于Group Report）
 
 ---
@@ -185,13 +212,26 @@
 
 | 角色 | 成员 | 主要职责 | 时间分配 | 对应Guide要求 |
 |------|------|---------|---------|---------------|
-| **Lead Instructor 1** | 同学A | 开场、引入、总结、Q&A主持 | 0-3分钟, 18-20分钟 | Session 3 ILO-1 (Presentation), Session 3 ILO-2 (Facilitation) |
-| **Lead Instructor 2** | 同学B | 理论框架讲解 | 3-8分钟 | Session 1 ILO-1 (OBTL), Session 3 ILO-1 (Clear Presentation) |
-| **Facilitator 1** | 同学C | 案例分析、互动活动设计与主持 | 8-15分钟 | Session 1 ILO-3 (Active Learning), Session 3 ILO-2 (Facilitation), Session 2 ILO-2 (Feedback) |
-| **Facilitator 2 & Tech** | 同学D | 数字工具操作、PPT制作、总结 | 全程技术支持 + 15-20分钟 | Session 4 ILO-1&2 (Digital Tools), Session 2 ILO-2 (Rubric Design) |
+| **Lead Instructor 1** | 同学A | 开场、跨学科思维理论、总结 | 0-2分钟, 2-7分钟, 18-20分钟 | Session 1 ILO-1 (OBTL), Session 3 ILO-1 (Presentation) |
+| **Lead Instructor 2** | 同学B | 批判性思维理论、第二次讨论主持 | 11-16分钟 | Session 1 ILO-1 (OBTL), Session 3 ILO-2 (Facilitation), Session 2 ILO-2 (Feedback) |
+| **Facilitator** | 同学C | 第一次分组讨论主持、点名引导 | 7-11分钟 | Session 1 ILO-3 (Active Learning), Session 3 ILO-2 (Facilitation) |
+| **Tech & Summary** | 同学D | 数字工具操作、PPT制作、总结 | 全程技术支持 + 18-20分钟 | Session 4 ILO-1&2 (Digital Tools), Session 2 ILO-2 (Rubric Design) |
+
+### 新课程流程时间轴
+
+| 时间 | 环节 | 负责人 | 活动内容 |
+|------|------|--------|---------|
+| 0-2分钟 | 开场 | 同学A | 介绍、学习目标 |
+| 2-7分钟 | 跨学科思维理论 | 同学A+D | 理论讲解 + 第一次投票（分thrust） |
+| 7-11分钟 | 第一次分组讨论 | 同学C | 小组讨论跨学科方案 + 点名回答 |
+| 11-16分钟 | 批判性思维理论 | 同学B+D | 理论讲解 + 第二次投票（评价选项） |
+| 16-18分钟 | 第二次分组讨论 | 同学B | 方案重述 + 组内评价 + 点合作组回答 |
+| 18-20分钟 | 总结 | 同学A+D | 回顾要点 + 自我评估引导 |
+| 20-25分钟 | Q&A | 同学A主持 | 问答互动 |
 
 **团队协作体现**：
 - 全员参与前期资料搜集与PPT内容讨论
+- 同学A和B负责理论讲解，同学C负责互动facilitation，同学D负责技术支持
 - 现场演示时，非主讲成员随时准备补充或回答问题
 - Q&A环节由同学A分配问题，其他成员根据专长回答
 - 课后共同完成Group Report
@@ -200,7 +240,7 @@
 
 ## 第三部分：PPT制作指南 (Slide-by-Slide Outline)
 
-**总页数**: 12页  
+**总页数**: 10页  
 **设计风格**: 简洁、专业、视觉化  
 **颜色方案**: 使用HKUST(GZ)官方色（红色 #BB0E3D）+ 中性色（灰色、白色）  
 **字体建议**: 
@@ -214,14 +254,14 @@
 **讲者**: 同学A (0-0.5分钟)
 
 #### 内容 (Content)
-- **主标题**: 培养跨学科思维：从问题识别到创新解决方案  
-  *Developing Transdisciplinary Thinking: From Problem Identification to Innovative Solutions*
-- **副标题**: Transdisciplinary and Critical Thinking
+- **主标题**: 跨学科与批判性思维：从问题定义到方案评估  
+  *Transdisciplinary and Critical Thinking: From Problem Definition to Solution Evaluation*
+- **副标题**: Developing Integrated Thinking Skills
 - **小组成员**: 同学A, 同学B, 同学C, 同学D
 - **课程信息**: PDEV 6800X Micro-Teaching | Fall 2025
 
 #### 设计建议 (Design Tip)
-- 使用高质量背景图片（例如：拼图、网络连接图、多彩交叉线条）象征"整合"与"跨学科"
+- 使用高质量背景图片（例如：思维导图、连接网络、跨学科符号）
 - 标题使用醒目颜色（红色或深蓝色）
 - 成员名字可用小图标或头像
 
@@ -231,43 +271,16 @@
 
 ---
 
-### Slide 2: 开场互动 - Kahoot Quiz (Opening Engagement)
-**讲者**: 同学A讲解 + 同学D操作 (0.5-3分钟)
-
-#### 内容 (Content)
-- **标题**: Let's Start with a Quick Quiz! 🎯
-- **说明**: 
-  - 扫描QR码参与Kahoot quiz
-  - 测试你对跨学科思维的初步理解
-- **Quiz题目示例** (5题)：
-  1. 什么是跨学科思维？(What is transdisciplinary thinking?)
-  2. 下列哪个问题最适合用跨学科方法解决？(Climate change / Math equation / Grammar error)
-  3. 跨学科思维的核心是什么？(Integration / Memorization / Specialization)
-  4. 批判性思维包括哪些步骤？(Multiple choice)
-  5. 真实案例：AI伦理问题涉及哪些学科？(Checkbox multiple answers)
-
-#### 设计建议 (Design Tip)
-- 放置Kahoot QR码（大号、居中）
-- 使用动画效果吸引注意
-- 显示Kahoot logo增加专业感
-
-#### 对应Guide要求
-- **Session 1 ILO-3**: Active learning strategy (quiz)
-- **Session 4 ILO-2**: 数字工具有效增强学习和参与度
-- **Audience Engagement (25%)**: 立即吸引观众参与
-
----
-
-### Slide 3: 学习目标 (Learning Objectives)
-**讲者**: 同学A (3-4分钟)
+### Slide 2: 学习目标 (Learning Objectives)
+**讲者**: 同学A (0.5-2分钟)
 
 #### 内容 (Content)
 - **标题**: What Will You Learn Today?
 - **学习目标** (用图标标注)：
-  1. 🎯 **理解**跨学科思维的定义和重要性
-  2. 🧠 **掌握**跨学科思维的四大核心原则
-  3. 🔍 **应用**跨学科思维分析真实案例
-  4. ✅ **评估**自己的跨学科思维能力（通过自我评估rubric）
+  1. 🎯 **理解**跨学科思维和批判性思维的定义和四个维度
+  2. 🧠 **应用**跨学科思维设计解决方案
+  3. 🔍 **运用**批判性思维评估方案的可行性
+  4. ✅ **评估**自己的综合思维能力
 
 #### 设计建议 (Design Tip)
 - 使用带编号的图标列表 (numbered icons)
@@ -280,102 +293,143 @@
 
 ---
 
-### Slide 4: 什么是跨学科思维？(What is Transdisciplinary Thinking?)
-**讲者**: 同学B (4-5分钟)
+### Slide 3: 什么是跨学科思维？(What is Transdisciplinary Thinking?)
+**讲者**: 同学A (2-4分钟)
 
 #### 内容 (Content)
-- **标题**: What is Transdisciplinary Thinking?
+- **标题**: Transdisciplinary Thinking: Connecting Knowledge
 - **定义**: 
-  - 跨学科思维是**整合多个学科的知识、方法和视角**，以解决复杂的现实问题
-  - *Transdisciplinary thinking integrates knowledge, methods, and perspectives from multiple disciplines to address complex real-world problems.*
-- **核心特点**：
-  - 超越单一学科边界 (Transcends disciplinary boundaries)
-  - 聚焦真实问题 (Focuses on real-world problems)
-  - 强调综合与创新 (Emphasizes synthesis & innovation)
-- **视觉元素**：维恩图 (Venn Diagram) 展示多学科交叉区域
+  > "避免单一学科视角造成的认知偏见……其本质在于连接所学知识，构建一个复杂的框架……以便更好地定义、分析和解决复杂问题。"
+  
+- **两大维度**（用双柱图或流程图展示）：
+  1. **Systemic Problem Definition (系统性问题定义)**  
+     - 为复杂问题进行更好的定义和分析
+     - 例子：气候变化不仅是环境问题，还涉及经济、政策、社会
+  
+  2. **Cross-Boundary Integration & Application (跨界整合与应用)**  
+     - 连接所学知识（跨界整合）
+     - 解决问题（应用）
+     - 呼应"T型人才"的横向知识（Broad Spectrum of Knowledge）
 
 #### 设计建议 (Design Tip)
-- 使用维恩图：3-4个圆圈代表不同学科（例如：Science, Technology, Ethics, Policy），中间交叉区域标注"Transdisciplinary Solution"
-- 配色：每个学科用不同颜色
-- 添加简短例子：气候变化 = 环境科学 + 经济学 + 政策 + 社会学
+- 使用双柱图或并排布局展示两大维度
+- 每个维度配图标（系统-网络图标，整合-拼图图标）
+- 添加T型人才示意图（横向=跨学科知识，纵向=专业深度）
+- 配色：两个维度用不同但协调的颜色
 
 #### 对应Guide要求
 - **Session 1 ILO-1**: 基于outcome-based理论讲解核心概念
-- **Session 3 ILO-1**: 使用视觉化工具（维恩图）增强理解
+- **Session 3 ILO-1**: 使用视觉化工具增强理解
 
 ---
 
-### Slide 5: 为什么需要跨学科思维？(Why Transdisciplinary Thinking?)
-**讲者**: 同学B (5-6分钟)
+### Slide 4: 第一次互动 - 分Thrust投票 (First Voting Activity)
+**讲者**: 同学A引导 + 同学D操作 (4-7分钟)
 
 #### 内容 (Content)
-- **标题**: Why Does It Matter?
-- **三大原因**：
-  1. **复杂问题无法用单一学科解决**  
-     - 例子：疫情防控需要医学、数据科学、公共政策、经济学、心理学
-  2. **21世纪职场核心竞争力**  
-     - 世界经济论坛（WEF）Future of Jobs Report: Critical Thinking & Problem Solving是Top 5技能
-  3. **创新的源泉**  
-     - 最具突破性的创新往往发生在学科交叉点（例如：生物信息学、神经经济学）
+- **标题**: Your Turn: Apply Transdisciplinary Thinking! 🗳️
+- **案例问题**: "如何设计一个智能校园系统，既高效又尊重隐私？"
+- **投票问题**: 
+  1. "你来自哪个thrust/专业领域？"（开放文字回答或选择题）
+  2. "从你的专业视角，设计智能校园系统时需要考虑什么？"
+- **显示Mentimeter QR码**
 
 #### 设计建议 (Design Tip)
-- 使用三列布局 (3-column layout)，每列一个原因
-- 每列配图标和简短例子
-- 引用权威数据来源（WEF logo, 统计数据）
+- 案例问题用大字体、醒目颜色显示
+- Mentimeter QR码放在显眼位置（右侧或中央）
+- 使用动画效果吸引注意
+- 显示Mentimeter logo增加专业感
 
 #### 对应Guide要求
-- **Session 1 ILO-1**: 说明为什么这个知识点重要（align with learning outcomes）
-- **Clarity of Content (25%)**: 逻辑清晰，论据充分
+- **Session 1 ILO-3**: Active learning strategy (voting)
+- **Session 4 ILO-2**: 数字工具有效增强学习和参与度
+- **Audience Engagement (25%)**: 立即吸引观众参与
 
 ---
 
-### Slide 6: 跨学科思维的四大核心原则 (Four Core Principles)
-**讲者**: 同学B (6-8分钟)
+### Slide 5: 第一次分组讨论 (First Group Discussion)
+**讲者**: 同学C (7-11分钟)
 
 #### 内容 (Content)
-- **标题**: Four Core Principles of Transdisciplinary Thinking
-- **四大原则** (用流程图或思维导图展示)：
-  1. **Integration** (整合)  
-     - 整合不同学科的理论、方法、数据
-  2. **Multiple Perspectives** (多维度视角)  
-     - 从技术、社会、经济、伦理等多角度审视问题
-  3. **Synthesis & Critical Evaluation** (综合分析与批判性评估)  
-     - 识别偏见、评估证据、综合结论
-  4. **Innovation** (创新)  
-     - 提出新颖的、跨界的解决方案
+- **标题**: Group Activity: Design Your Transdisciplinary Solution 🤝
+- **讨论任务**:
+  - 时间：3分钟小组讨论
+  - 任务：用跨学科思维设计智能校园系统方案
+  - 要求：运用两大维度
+    1. 系统性定义问题（涉及哪些方面？）
+    2. 跨界整合方案（如何整合不同领域知识？）
+- **讨论指引**（用流程图展示）:
+  1. **定义问题**: 智能校园系统涉及技术、隐私、用户体验、成本等
+  2. **整合视角**: 你们小组如何整合不同thrust的知识？
+  3. **提出方案**: 至少2个具体建议
 
 #### 设计建议 (Design Tip)
-- **流程图设计**: 四个方框按顺序排列（左到右或上到下），用箭头连接
-- 每个方框配图标（例如：Integration用拼图图标，Multiple Perspectives用望远镜图标）
-- 使用颜色编码：每个原则一个颜色
-- 添加简短例子（例如：Integration - 用AI技术+医学知识诊断疾病）
+- 使用清晰的任务列表（带checkbox或数字）
+- 计时器图标提醒时间限制
+- 流程图展示讨论步骤（1→2→3）
+- 使用鼓励性图标（💡、🤝、🎯）
 
 #### 对应Guide要求
-- **Session 1 ILO-1**: Outcome-based theories (清晰的知识框架)
-- **Session 3 ILO-1**: 使用流程图等视觉化工具提升presentation效果
-- **Quality of Materials (20%)**: 材料well-organized, 支持teaching
+- **Session 1 ILO-3**: 实施active learning strategy (group discussion)
+- **Session 3 ILO-2**: 提供清晰的活动指引
+- **Audience Engagement (25%)**: 充分吸引观众参与
+- **Facilitation of Interactions (25%)**: 顺畅管理互动
 
 ---
 
-### Slide 7: 对比：单学科 vs 跨学科思维 (Comparison Table)
-**讲者**: 同学B (8分钟) → 过渡到同学C
+### Slide 6: 什么是批判性思维？(What is Critical Thinking?)
+**讲者**: 同学B (11-13分钟)
 
 #### 内容 (Content)
-- **标题**: Disciplinary vs Transdisciplinary Thinking
+- **标题**: Critical Thinking: Evaluate with Evidence
+- **定义**: 
+  > "通过批判性思维，以清晰合理的方式做出判断和选择……审查所接收到的信息和数据，以确定其价值、真实性和功效。"
+  
+- **两大维度**（用双柱图或流程图展示）：
+  1. **Evidence Gathering & Analysis (证据收集与分析)**  
+     - 审查信息和数据
+     - 确定其价值、真实性和功效
+     - 例子：评估智能校园方案是否有数据支持
+  
+  2. **Logical Reasoning & Synthesis (逻辑推理与综合)**  
+     - 以清晰合理的方式做出判断
+     - 综合多方信息得出结论
+     - 例子：权衡隐私保护和系统效率
+
+#### 设计建议 (Design Tip)
+- 使用双柱图或并排布局展示两大维度
+- 每个维度配图标（证据-放大镜图标，推理-天平图标）
+- 与Slide 3形成视觉对应（跨学科 vs 批判性）
+- 配色：与Slide 3协调但有区分
+
+#### 对应Guide要求
+- **Session 1 ILO-1**: 基于outcome-based理论讲解核心概念
+- **Session 3 ILO-1**: 使用视觉化工具增强理解
+- **Clarity of Content (25%)**: 内容清晰、逻辑连贯
+
+---
+
+### Slide 7: 跨学科思维 vs 批判性思维 (Transdisciplinary vs Critical Thinking)
+**讲者**: 同学B (13-14分钟)
+
+#### 内容 (Content)
+- **标题**: Two Sides of the Same Coin
 - **对比表格**:
 
-| 维度 (Dimension) | 单学科思维 (Disciplinary) | 跨学科思维 (Transdisciplinary) |
-|-----------------|--------------------------|-------------------------------|
-| **焦点** (Focus) | 学科内部问题 | 真实世界复杂问题 |
-| **知识来源** (Knowledge Source) | 单一学科理论与方法 | 多学科整合 |
-| **视角** (Perspective) | 单一视角 | 多维度视角 |
-| **解决方案** (Solution) | 学科特定答案 | 综合创新方案 |
-| **例子** (Example) | 仅从计算机科学角度开发AI | 整合技术、伦理、法律、社会学开发负责任的AI |
+| 维度 | 跨学科思维 (Transdisciplinary) | 批判性思维 (Critical) |
+|------|-------------------------------|----------------------|
+| **焦点** | 问题定义与方案设计 | 方案评估与判断 |
+| **核心能力** | 整合、连接、创新 | 分析、推理、评估 |
+| **两大维度** | 系统性定义 + 跨界整合 | 证据分析 + 逻辑推理 |
+| **关系** | 跨学科思维提出方案 → 批判性思维评估方案 |
+
+- **总结**: 两者相辅相成，缺一不可！
 
 #### 设计建议 (Design Tip)
 - 使用清晰的表格布局
-- 使用对比色（例如：单学科用灰色，跨学科用亮色）
-- 在"例子"行使用图标增强视觉效果
+- 使用对比色（例如：跨学科用蓝色系，批判性用绿色系）
+- 在"关系"行使用箭头图标强调流程
+- 添加"两者相辅相成"的视觉元素（例如：阴阳图、拼图）
 
 #### 对应Guide要求
 - **Session 3 ILO-1**: 使用对比表格清晰呈现信息
@@ -383,153 +437,124 @@
 
 ---
 
-### Slide 8: 案例介绍 - AI医疗诊断伦理问题 (Case Study Introduction)
-**讲者**: 同学C (8-9分钟)
+### Slide 8: 第二次互动 - 方案评价投票 (Second Voting Activity)
+**讲者**: 同学B引导 + 同学D操作 (14-16分钟)
 
 #### 内容 (Content)
-- **标题**: Case Study: AI in Medical Diagnosis
-- **案例背景**:
-  - **场景**: 一家医院使用AI系统辅助诊断皮肤癌
-  - **技术优势**: AI准确率达95%，远超人类医生
-  - **问题与挑战**:
-    - 训练数据主要来自白种人，对深色皮肤患者诊断准确率仅70%（数据偏见）
-    - 患者隐私：AI需要大量医疗数据训练
-    - 责任归属：AI误诊谁负责？医生？医院？AI公司？
-    - 社会影响：医生职业被取代？医患关系变化？
-- **问题**: 如何用跨学科思维解决这个问题？
+- **标题**: Evaluate with Critical Thinking! 🔍
+- **背景**: 刚才我们听到了几个小组的智能校园系统方案
+- **投票问题**: "对于刚才小组提出的方案，你认为哪个评价最合理？"
+  - **选项A**: 方案整合了多个学科但缺乏证据支持 🤔
+  - **选项B**: 方案有充分证据但只考虑单一视角 📊
+  - **选项C**: 方案兼具跨学科整合和证据支持 ✅
+  - **选项D**: 方案创新但不可行 💡
+- **显示Mentimeter QR码**
 
 #### 设计建议 (Design Tip)
-- 使用医疗相关图片（AI界面、医生、患者）
-- 问题用醒目颜色highlight（例如：红色框）
-- 添加图标标注不同维度（技术、伦理、法律、社会）
+- 四个选项用清晰的卡片或按钮布局
+- 每个选项配emoji增强视觉
+- 使用不同颜色区分选项（但不暗示对错）
+- Mentimeter QR码放在显眼位置
 
 #### 对应Guide要求
-- **Session 1 ILO-3**: 引入active learning活动（案例分析）
-- **Session 3 ILO-2**: 提出开放式问题，引导facilitation
+- **Session 1 ILO-3**: Active learning strategy (voting + evaluation)
+- **Session 4 ILO-2**: 数字工具有效增强互动
+- **Session 2 ILO-2**: 引导学生进行peer evaluation思考
 
 ---
 
-### Slide 9: 互动活动 - Think-Pair-Share (Active Learning Activity)
-**讲者**: 同学C主持 + 同学D操作Miro/Padlet (9-15分钟)
+### Slide 9: 第二次分组讨论 (Second Group Discussion)
+**讲者**: 同学B (16-18分钟)
 
 #### 内容 (Content)
-- **标题**: Group Activity: Think-Pair-Share 🤝
-- **活动指引**:
-  1. **Think** (1分钟): 个人思考
-     - 这个案例涉及哪些学科领域？
-     - 每个领域需要考虑什么问题？
-  2. **Pair/Small Group** (3分钟): 小组讨论（2-4人）
-     - 如何整合不同学科视角？
-     - 提出至少2个跨学科解决方案
-  3. **Share** (3分钟): 全班分享
-     - 2-3组分享他们的分析
-     - 在Miro/Padlet上提交你的想法
-- **Miro/Padlet链接**: 显示QR码或短链接
+- **标题**: Refine Your Solution with Critical Thinking 🎯
+- **讨论任务**:
+  - 时间：2分钟
+  - 任务流程：
+    1. **重述方案** (30秒): 请一位成员重述你们小组的智能校园方案
+    2. **组内批判性评价** (60秒): 
+       - 证据是否充分？
+       - 逻辑是否合理？
+       - 可行性如何？
+    3. **合作组评价** (30秒): 点名请合作组一位成员提供外部评价
 
 #### 设计建议 (Design Tip)
-- 使用三步流程图（Think → Pair → Share）
-- 每一步配时间提示和图标
-- 放置Miro/Padlet QR码（大号）
-- 使用动画效果按步骤展示
+- 使用时间轴或流程图展示三步流程
+- 每步标注时间（30秒、60秒、30秒）
+- 使用图标：重述-麦克风，评价-天平，合作-握手
+- 计时器图标提醒时间管理
 
 #### 对应Guide要求
-- **Session 1 ILO-3**: 实施active learning strategy (Think-Pair-Share)
-- **Session 4 ILO-2**: 有效使用数字工具增强互动 (Miro/Padlet)
-- **Audience Engagement (25%)**: 充分吸引观众参与
-- **Facilitation of Interactions (25%)**: 顺畅管理互动
+- **Session 1 ILO-3**: Active learning (group discussion + peer evaluation)
+- **Session 2 ILO-2**: Peer feedback实践
+- **Session 3 ILO-2**: 有效facilitation，引导互动
+- **Facilitation of Interactions (25%)**: 及时管理讨论节奏
 
 ---
 
-### Slide 10: 案例分析总结 - 学生想法展示 (Case Analysis Summary)
-**讲者**: 同学C + 同学D (15-16分钟)
-
-#### 内容 (Content)
-- **标题**: What Did We Discover? 💡
-- **学生想法汇总** (从Miro/Padlet截图):
-  - **涉及学科领域**:
-    - 计算机科学（算法优化、数据处理）
-    - 医学（临床知识、诊断标准）
-    - 伦理学（公平性、知情同意）
-    - 法律（责任归属、数据隐私法）
-    - 社会学（医患关系、社会影响）
-  - **跨学科解决方案示例**:
-    1. 技术+伦理：建立多样化训练数据集，消除偏见
-    2. 法律+医学：明确AI辅助诊断的责任分配框架
-    3. 社会学+医学：培训医生使用AI，保持人机协作模式
-- **Instructor Feedback** (同学C提供):
-  - 表扬具体的跨学科整合点
-  - 指出可以进一步深化的地方
-
-#### 设计建议 (Design Tip)
-- 使用截图展示Miro/Padlet上的学生想法（马赛克处理个人信息）
-- 使用颜色标签分类不同学科（例如：技术-蓝色，伦理-绿色）
-- 添加"Good Point!"、"Excellent Integration!"等feedback标签
-
-#### 对应Guide要求
-- **Session 2 ILO-2**: 提供meaningful, specific feedback
-- **Session 3 ILO-2**: 有效facilitation，回应学生想法
-- **Facilitation of Interactions (25%)**: 及时回应观众
-
----
-
-### Slide 11: 自我评估Rubric (Self-Assessment Rubric)
-**讲者**: 同学D (16-18分钟)
-
-#### 内容 (Content)
-- **标题**: Self-Assessment: How Transdisciplinary Are You? 📊
-- **Rubric说明**:
-  - 这是一个**formative assessment**工具，帮助你反思自己的跨学科思维能力
-  - 扫描QR码或访问链接完成评估（Google Form或Canvas）
-- **评估维度** (4个维度，每个1-5分):
-  1. **整合能力** (Integration)  
-     - 我能有效整合不同学科的知识解决问题
-  2. **多维度视角** (Multiple Perspectives)  
-     - 我能从多个角度（技术、伦理、社会等）审视问题
-  3. **批判性思维** (Critical Evaluation)  
-     - 我能识别偏见、评估证据、综合结论
-  4. **创新性** (Innovation)  
-     - 我能提出新颖的、跨界的解决方案
-- **反馈**: 评估结果会显示你的强项和需要提升的地方
-
-#### 设计建议 (Design Tip)
-- 显示Rubric表格（4行 × 3列：维度、描述、自评分）
-- 放置Google Form/Canvas QR码
-- 使用进度条或雷达图图标暗示"自我评估"
-
-#### 对应Guide要求
-- **Session 2 ILO-2**: 设计meaningful feedback工具（rubric）
-- **Session 1 ILO-1**: Formative assessment体现outcome-based teaching
-- **Session 4 ILO-1&2**: 使用数字工具收集评估数据
-
----
-
-### Slide 12: 总结与延伸学习 (Summary & Further Learning)
+### Slide 10: 总结与自我评估 (Summary & Self-Assessment)
 **讲者**: 同学A + 同学D (18-20分钟)
 
 #### 内容 (Content)
-- **标题**: Key Takeaways & Further Learning 🚀
-- **核心要点回顾** (呼应Slide 3学习目标):
-  ✅ 跨学科思维 = 整合多学科知识解决复杂问题  
-  ✅ 四大核心原则: Integration, Multiple Perspectives, Synthesis, Innovation  
-  ✅ 真实案例实践: AI医疗诊断伦理问题  
-  ✅ 自我评估: 了解自己的跨学科思维能力
+- **标题**: Key Takeaways & Self-Assessment 🚀
+- **核心要点回顾** (呼应Slide 2学习目标):
+  ✅ **跨学科思维两大维度**: 系统性问题定义 + 跨界整合应用  
+  ✅ **批判性思维两大维度**: 证据收集分析 + 逻辑推理综合  
+  ✅ **实践应用**: 设计智能校园方案 → 批判性评估方案  
+  ✅ **相辅相成**: 整合知识 + 批判评估 = 完整思维能力
+
+- **自我评估Rubric**（显示QR码或链接）:
+  - 维度1：系统性问题定义能力 (1-5分)
+  - 维度2：跨界整合应用能力 (1-5分)
+  - 维度3：证据收集分析能力 (1-5分)
+  - 维度4：逻辑推理综合能力 (1-5分)
+
 - **延伸学习资源**:
-  - 📚 推荐阅读: 
-    - "The Third Culture" by John Brockman
-    - "Range: Why Generalists Triumph in a Specialized World" by David Epstein
+  - 📚 推荐阅读: "The Fifth Discipline" by Peter Senge
   - 🌐 在线课程: Coursera "Critical Thinking & Problem Solving"
-  - 🔗 延伸讨论: Canvas Discussion Board (link)
-- **Q&A时间**: "Any questions?" 🙋‍♀️
 
 #### 设计建议 (Design Tip)
 - 使用Checklist样式回顾要点（✅图标）
+- 自我评估用雷达图或进度条暗示四个维度
 - 推荐资源用书本、网站图标标注
-- 最后一页放团队联系方式和"Thank You"
+- 放置QR码或链接（自我评估表单）
 
 #### 对应Guide要求
 - **Session 1 ILO-1**: 呼应learning objectives，体现outcome-based teaching
-- **Session 3 ILO-1**: 清晰的结尾，总结要点
-- **Quality of Materials (20%)**: 提供延伸学习资源，支持持续学习
+- **Session 2 ILO-2**: 设计formative assessment (self-assessment rubric)
+- **Session 4 ILO-1&2**: 使用数字工具收集评估数据
+- **Quality of Materials (20%)**: 提供延伸学习资源
+
+---
+
+## PPT制作总结清单
+
+### 视觉设计统一原则
+- [ ] 使用统一的模板和配色方案（HKUST(GZ)红 + 中性色）
+- [ ] 每页不超过3-4个要点（避免信息过载）
+- [ ] 字体大小适中（标题32-36pt，正文20-24pt）
+- [ ] 使用高质量图片、图标、图表（避免低分辨率图片）
+- [ ] 适当使用动画效果（不过度）
+
+### 数字工具准备清单
+- [ ] Mentimeter第一次投票设置完成（分thrust + 专业视角）
+- [ ] Mentimeter第二次投票设置完成（4个评价选项）
+- [ ] 自我评估Google Form创建（4个维度，1-5分量表）
+- [ ] 所有QR码测试可用
+- [ ] 备用方案准备（网络不稳定时的Plan B）
+
+### 对应Guide要求总结
+
+| Guide评估标准 | 对应Slides | 实现方式 |
+|--------------|-----------|---------|
+| **Session 1 ILO-1** (Outcome-based Teaching) | Slide 2, 10 | 明确学习目标、Formative Assessment、呼应目标 |
+| **Session 1 ILO-3** (Active Learning) | Slide 4, 5, 8, 9 | 两次投票、两次分组讨论、点名互动 |
+| **Session 2 ILO-2** (Meaningful Feedback) | Slide 8, 9, 10 | 方案评价、组内评价、自我评估rubric |
+| **Session 3 ILO-1** (Presentation Skills) | All Slides | 清晰结构、视觉化工具、专业设计 |
+| **Session 3 ILO-2** (Facilitation Skills) | Slide 5, 9 | 引导讨论、点名互动、管理时间 |
+| **Session 4 ILO-1&2** (Digital Tools) | Slide 4, 8, 10 | Mentimeter两次投票、Google Form自我评估 |
+| **Quality of Materials** | All Slides | Well-organized、无错误、支持learning |
+| **Time Management** | All Slides | 20分钟内完成（每个环节精确计时） |
 
 ---
 
