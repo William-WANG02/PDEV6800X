@@ -16,9 +16,12 @@ This repository contains materials for the PDEV 6800X course, including lecture 
 
 A comprehensive micro-teaching plan has been prepared for a 4-person group:
 
-👉 **[微课堂教学计划-4人小组.md](./微课堂教学计划-4人小组.md)**
+### 📋 Documents
+- 👉 **[微课堂教学计划-4人小组.md](./微课堂教学计划-4人小组.md)** - Full detailed plan in Chinese (15,800+ characters)
+- 👉 **[Micro-Teaching-Plan-Quick-Reference.md](./Micro-Teaching-Plan-Quick-Reference.md)** - Quick reference guide in English
 
-This plan includes:
+### What's Included
+This comprehensive plan includes:
 1. **Detailed Topic Selection**: "Effective Presentation Skills in Academic Settings"
 2. **Division of Labor**: Clear role assignments for 4 team members (Students A, B, C, D)
 3. **PPT Slide-by-Slide Outline**: 18-20 slides with design guidelines
