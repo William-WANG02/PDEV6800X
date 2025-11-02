@@ -19,6 +19,7 @@ A comprehensive micro-teaching plan has been prepared for a 4-person group:
 ### 📋 Documents
 - 👉 **[微课堂教学计划-4人小组.md](./微课堂教学计划-4人小组.md)** - Full detailed plan in Chinese (15,800+ characters)
 - 👉 **[Micro-Teaching-Plan-Quick-Reference.md](./Micro-Teaching-Plan-Quick-Reference.md)** - Quick reference guide in English
+- 👉 **[Execution-Flow-Guide.md](./Execution-Flow-Guide.md)** - Visual execution flow with scripts and checklists
 
 ### What's Included
 This comprehensive plan includes:
